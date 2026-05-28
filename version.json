@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.0",
-  "leki_version": "1.0.1",
+  "leki_version": "1.0.2",
   "changelog": "Aktualizacja bazy leków",
   "download_url": "https://github.com/domelcio/medpanel-releases/releases/latest/download/medpanel.exe"
 }
