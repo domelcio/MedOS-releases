@@ -96,5 +96,597 @@
     "przeciwwskazania": ["Jaskra z wąskim kątem", "Tachykardia (w innych wskazaniach)"],
     "antidotum": "Fizostygmina (rzadko)",
     "kolor": "#f39c12"
+  },
+  {
+    "nazwa": "Amiodarон",
+    "kategoria": "Antyarytmik",
+    "opis": "Antyarytmik klasy III. Stosowany w VF, VT bez tętna i tachyarytmiach.",
+    "dawkowanie": [
+      {"droga": "IV (NZK – VF/VT)", "dawka": "300 mg", "czestotliwosc": "Jednorazowo po 3. defibrylacji", "uwagi": "Następnie 150 mg po 5. defibrylacji"},
+      {"droga": "IV (tachyarytmia)", "dawka": "150 mg przez 10 min", "czestotliwosc": "Następnie infuzja", "uwagi": "Infuzja: 1 mg/min przez 6h"},
+      {"droga": "Infuzja podtrzymująca", "dawka": "0.5 mg/min", "czestotliwosc": "Przez 18h", "uwagi": "Maks. 2.2 g/24h"}
+    ],
+    "interakcje": ["Digoksyna (wzrost stężenia)", "Warfaryna (nasilenie)", "QT-prolonging drugs"],
+    "przeciwwskazania": ["Bradykardia zatokowa", "Blok SA", "Choroby tarczycy"],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#1abc9c"
+  },
+  {
+    "nazwa": "Diazepam",
+    "kategoria": "Benzodiazepin",
+    "opis": "Lek przeciwdrgawkowy, uspokajający i miorelaksacyjny. Stosowany w drgawkach, sedacji i stanach lękowych.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.1–0.3 mg/kg",
+        "czestotliwosc": "Powoli co 5 min",
+        "uwagi": "Maks. 10 mg jednorazowo"
+      },
+      {
+        "droga": "PR (doodbytniczo)",
+        "dawka": "0.5 mg/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Drgawki u dzieci"
+      },
+      {
+        "droga": "PO",
+        "dawka": "2–10 mg",
+        "czestotliwosc": "2–4x dziennie",
+        "uwagi": "Sedacja i lęk"
+      }
+    ],
+    "interakcje": [
+      "Opioidy",
+      "Alkohol",
+      "Leki nasenne"
+    ],
+    "przeciwwskazania": [
+      "Miastenia gravis",
+      "Ciężka niewydolność oddechowa"
+    ],
+    "antidotum": "Flumazenil 0.2 mg IV",
+    "kolor": "#8e44ad"
+  },
+  {
+    "nazwa": "Propofol",
+    "kategoria": "Anestetyk",
+    "opis": "Krótko działający anestetyk do sedacji i indukcji znieczulenia.",
+    "dawkowanie": [
+      {
+        "droga": "IV (indukcja)",
+        "dawka": "1–2.5 mg/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Powolny bolus"
+      },
+      {
+        "droga": "IV (sedacja)",
+        "dawka": "0.5–1 mg/kg",
+        "czestotliwosc": "W razie potrzeby",
+        "uwagi": "Miareczkować"
+      },
+      {
+        "droga": "Infuzja IV",
+        "dawka": "5–50 mcg/kg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Sedacja OIT"
+      }
+    ],
+    "interakcje": [
+      "Opioidy",
+      "Benzodiazepiny",
+      "Alkohol"
+    ],
+    "przeciwwskazania": [
+      "Niestabilność hemodynamiczna",
+      "Alergia na soję/jaja"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#2c3e50"
+  },
+  {
+    "nazwa": "Lidokaina",
+    "kategoria": "Antyarytmik",
+    "opis": "Lek przeciwarytmiczny klasy IB i środek miejscowo znieczulający.",
+    "dawkowanie": [
+      {
+        "droga": "IV (arytmia)",
+        "dawka": "1–1.5 mg/kg",
+        "czestotliwosc": "Bolus",
+        "uwagi": "Można powtórzyć 0.5–0.75 mg/kg"
+      },
+      {
+        "droga": "Infuzja IV",
+        "dawka": "1–4 mg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Monitorować EKG"
+      },
+      {
+        "droga": "SC/miejscowo",
+        "dawka": "3–5 mg/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Maks. 300 mg bez adrenaliny"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "Amiodaron"
+    ],
+    "przeciwwskazania": [
+      "Blok AV II/III",
+      "Ciężka bradykardia"
+    ],
+    "antidotum": "Leczenie objawowe / emulsja lipidowa",
+    "kolor": "#16a085"
+  },
+  {
+    "nazwa": "Noradrenalina",
+    "kategoria": "Katecholamina",
+    "opis": "Silny wazopresor stosowany we wstrząsie septycznym i hipotensji.",
+    "dawkowanie": [
+      {
+        "droga": "Infuzja IV",
+        "dawka": "0.05–1 mcg/kg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Preferowany dostęp centralny"
+      },
+      {
+        "droga": "IV",
+        "dawka": "5–20 mcg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Miareczkować do MAP ≥65 mmHg"
+      }
+    ],
+    "interakcje": [
+      "MAO inhibitory",
+      "TLPD"
+    ],
+    "przeciwwskazania": [
+      "Hipowolemia bez resuscytacji płynowej"
+    ],
+    "antidotum": "Fentolamina przy wynaczynieniu",
+    "kolor": "#d35400"
+  },
+  {
+    "nazwa": "Dopamina",
+    "kategoria": "Katecholamina",
+    "opis": "Lek inotropowy i wazopresyjny stosowany w hipotensji i bradykardii.",
+    "dawkowanie": [
+      {
+        "droga": "Infuzja IV",
+        "dawka": "2–20 mcg/kg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Efekt zależny od dawki"
+      }
+    ],
+    "interakcje": [
+      "MAO inhibitory",
+      "Leki sympatykomimetyczne"
+    ],
+    "przeciwwskazania": [
+      "Tachyarytmie",
+      "Feochromocytoma"
+    ],
+    "antidotum": "Fentolamina przy wynaczynieniu",
+    "kolor": "#f1c40f"
+  },
+  {
+    "nazwa": "Glukoza 20%",
+    "kategoria": "Metaboliczny",
+    "opis": "Roztwór glukozy stosowany w hipoglikemii.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.2–0.5 g/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Monitorować glikemię"
+      }
+    ],
+    "interakcje": [
+      "Insulina"
+    ],
+    "przeciwwskazania": [
+      "Hiperglikemia"
+    ],
+    "antidotum": "Nie dotyczy",
+    "kolor": "#f39c12"
+  },
+  {
+    "nazwa": "Insulina krótko działająca",
+    "kategoria": "Hormonalny",
+    "opis": "Insulina stosowana w hiperglikemii, DKA i hiperkaliemii.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.1 U/kg/h",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "DKA"
+      },
+      {
+        "droga": "IV",
+        "dawka": "10 U + glukoza",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Hiperkaliemia"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "Steroidy"
+    ],
+    "przeciwwskazania": [
+      "Hipoglikemia"
+    ],
+    "antidotum": "Glukoza IV",
+    "kolor": "#2980b9"
+  },
+  {
+    "nazwa": "Salbutamol",
+    "kategoria": "Beta2-mimetyk",
+    "opis": "Lek rozszerzający oskrzela stosowany w astmie i POChP.",
+    "dawkowanie": [
+      {
+        "droga": "Nebulizacja",
+        "dawka": "2.5–5 mg",
+        "czestotliwosc": "Co 20 min",
+        "uwagi": "Można powtarzać"
+      },
+      {
+        "droga": "INH",
+        "dawka": "100–200 mcg",
+        "czestotliwosc": "W razie potrzeby",
+        "uwagi": "MDI"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "Diuretyki"
+    ],
+    "przeciwwskazania": [
+      "Tachyarytmie"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#1e90ff"
+  },
+  {
+    "nazwa": "Hydrokortyzon",
+    "kategoria": "Glikokortykosteroid",
+    "opis": "Steroid stosowany w anafilaksji, astmie i niewydolności nadnerczy.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "100–200 mg",
+        "czestotliwosc": "Co 6–8h",
+        "uwagi": "Anafilaksja i wstrząs"
+      }
+    ],
+    "interakcje": [
+      "NLPZ",
+      "Insulina"
+    ],
+    "przeciwwskazania": [
+      "Brak bezwzględnych w stanach nagłych"
+    ],
+    "antidotum": "Brak antidotum",
+    "kolor": "#7f8c8d"
+  },
+  {
+    "nazwa": "Ondansetron",
+    "kategoria": "Przeciwwymiotny",
+    "opis": "Antagonista 5-HT3 stosowany przeciw nudnościom i wymiotom.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "4–8 mg",
+        "czestotliwosc": "Co 8h",
+        "uwagi": "Podawać powoli"
+      },
+      {
+        "droga": "PO",
+        "dawka": "4–8 mg",
+        "czestotliwosc": "Co 8h",
+        "uwagi": "Tabletki"
+      }
+    ],
+    "interakcje": [
+      "Leki wydłużające QT",
+      "SSRI"
+    ],
+    "przeciwwskazania": [
+      "Wrodzony zespół długiego QT"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#ff69b4"
+  },
+  {
+    "nazwa": "Adenozyna",
+    "kategoria": "Antyarytmik",
+    "opis": "Lek stosowany w częstoskurczu nadkomorowym (SVT). Powoduje krótkotrwały blok AV.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "6 mg szybki bolus",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Następnie przepłukać 20 ml NaCl"
+      },
+      {
+        "droga": "IV",
+        "dawka": "12 mg szybki bolus",
+        "czestotliwosc": "Po 1–2 min jeśli brak efektu",
+        "uwagi": "Można powtórzyć raz"
+      }
+    ],
+    "interakcje": [
+      "Teofilina (osłabia działanie)",
+      "Dipirydamol (nasila działanie)"
+    ],
+    "przeciwwskazania": [
+      "Blok AV II/III",
+      "Astma ciężka",
+      "Migotanie przedsionków z WPW"
+    ],
+    "antidotum": "Aminofilina",
+    "kolor": "#34495e"
+  },
+  {
+    "nazwa": "Metoprolol",
+    "kategoria": "Beta-bloker",
+    "opis": "Selektywny beta1-adrenolityk stosowany w tachyarytmiach, ACS i nadciśnieniu.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "2.5–5 mg",
+        "czestotliwosc": "Co 5 min",
+        "uwagi": "Maks. 15 mg"
+      },
+      {
+        "droga": "PO",
+        "dawka": "25–100 mg",
+        "czestotliwosc": "1–2x dziennie",
+        "uwagi": "Dostosować do HR i RR"
+      }
+    ],
+    "interakcje": [
+      "Werapamil",
+      "Digoksyna",
+      "Insulina"
+    ],
+    "przeciwwskazania": [
+      "Bradykardia",
+      "Blok AV",
+      "Wstrząs kardiogenny"
+    ],
+    "antidotum": "Glukagon IV",
+    "kolor": "#2980b9"
+  },
+  {
+    "nazwa": "Nitrogliceryna",
+    "kategoria": "Azotan",
+    "opis": "Lek rozszerzający naczynia stosowany w bólu wieńcowym i obrzęku płuc.",
+    "dawkowanie": [
+      {
+        "droga": "SL",
+        "dawka": "0.4 mg",
+        "czestotliwosc": "Co 5 min",
+        "uwagi": "Maks. 3 dawki"
+      },
+      {
+        "droga": "Infuzja IV",
+        "dawka": "5–200 mcg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Miareczkować do efektu"
+      }
+    ],
+    "interakcje": [
+      "Sildenafil",
+      "Tadalafil",
+      "Leki hipotensyjne"
+    ],
+    "przeciwwskazania": [
+      "Hipotensja",
+      "Zawał prawej komory",
+      "Stosowanie inhibitorów PDE5"
+    ],
+    "antidotum": "Płyny IV / wazopresory",
+    "kolor": "#e74c3c"
+  },
+  {
+    "nazwa": "Digoksyna",
+    "kategoria": "Glikozyd nasercowy",
+    "opis": "Lek zwiększający kurczliwość serca i zwalniający przewodzenie AV.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.25–0.5 mg",
+        "czestotliwosc": "Co 4–6h",
+        "uwagi": "Dawka nasycająca"
+      },
+      {
+        "droga": "PO",
+        "dawka": "0.125–0.25 mg",
+        "czestotliwosc": "1x dziennie",
+        "uwagi": "Monitorować stężenie"
+      }
+    ],
+    "interakcje": [
+      "Amiodaron",
+      "Werapamil",
+      "Diuretyki"
+    ],
+    "przeciwwskazania": [
+      "Blok AV",
+      "Hipokaliemia",
+      "VF"
+    ],
+    "antidotum": "Fab przeciw digoksynie",
+    "kolor": "#16a085"
+  },
+  {
+    "nazwa": "Werapamil",
+    "kategoria": "Bloker kanału wapniowego",
+    "opis": "Lek przeciwarytmiczny i przeciwnadciśnieniowy stosowany w SVT i AF.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "2.5–5 mg",
+        "czestotliwosc": "Przez 2 min",
+        "uwagi": "Można powtórzyć po 15–30 min"
+      },
+      {
+        "droga": "PO",
+        "dawka": "80–120 mg",
+        "czestotliwosc": "3x dziennie",
+        "uwagi": "Postać IR"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "Digoksyna"
+    ],
+    "przeciwwskazania": [
+      "Bradykardia",
+      "HFrEF",
+      "Blok AV"
+    ],
+    "antidotum": "Wapń IV",
+    "kolor": "#9b59b6"
+  },
+  {
+    "nazwa": "Dobutamina",
+    "kategoria": "Inotropowy",
+    "opis": "Agonista beta1 zwiększający kurczliwość mięśnia sercowego.",
+    "dawkowanie": [
+      {
+        "droga": "Infuzja IV",
+        "dawka": "2–20 mcg/kg/min",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Monitorować HR i RR"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "MAO inhibitory"
+    ],
+    "przeciwwskazania": [
+      "Kardiomiopatia przerostowa",
+      "Tachyarytmie"
+    ],
+    "antidotum": "Beta-blokery",
+    "kolor": "#f39c12"
+  },
+  {
+    "nazwa": "Heparyna niefrakcjonowana",
+    "kategoria": "Przeciwzakrzepowy",
+    "opis": "Antykoagulant stosowany w ACS, PE i zakrzepicy.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "60–80 U/kg bolus",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Maks. 5000 U"
+      },
+      {
+        "droga": "Infuzja IV",
+        "dawka": "12–18 U/kg/h",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Kontrola APTT"
+      }
+    ],
+    "interakcje": [
+      "ASA",
+      "Klopidogrel",
+      "NLPZ"
+    ],
+    "przeciwwskazania": [
+      "Aktywne krwawienie",
+      "HIT"
+    ],
+    "antidotum": "Protaminy siarczan",
+    "kolor": "#2ecc71"
+  },
+  {
+    "nazwa": "Klopidogrel",
+    "kategoria": "Przeciwpłytkowy",
+    "opis": "Inhibitor P2Y12 stosowany w ACS i po angioplastyce.",
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "300–600 mg",
+        "czestotliwosc": "Dawka nasycająca",
+        "uwagi": "ACS/PCI"
+      },
+      {
+        "droga": "PO",
+        "dawka": "75 mg",
+        "czestotliwosc": "1x dziennie",
+        "uwagi": "Leczenie podtrzymujące"
+      }
+    ],
+    "interakcje": [
+      "Omeprazol",
+      "Warfaryna"
+    ],
+    "przeciwwskazania": [
+      "Aktywne krwawienie"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#27ae60"
+  },
+  {
+    "nazwa": "ASA (Aspiryna)",
+    "kategoria": "Przeciwpłytkowy",
+    "opis": "Lek przeciwpłytkowy stosowany w ACS i profilaktyce sercowo-naczyniowej.",
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "150–325 mg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Rozgryźć w ACS"
+      },
+      {
+        "droga": "PO",
+        "dawka": "75–100 mg",
+        "czestotliwosc": "1x dziennie",
+        "uwagi": "Profilaktyka"
+      }
+    ],
+    "interakcje": [
+      "Heparyna",
+      "Warfaryna",
+      "NLPZ"
+    ],
+    "przeciwwskazania": [
+      "Aktywne krwawienie",
+      "Alergia na salicylany"
+    ],
+    "antidotum": "Brak antidotum",
+    "kolor": "#c0392b"
+  },
+  {
+    "nazwa": "Furosemid",
+    "kategoria": "Diuretyk",
+    "opis": "Diuretyk pętlowy stosowany w obrzęku płuc i niewydolności serca.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "20–80 mg",
+        "czestotliwosc": "Powoli IV",
+        "uwagi": "Można powtarzać"
+      },
+      {
+        "droga": "PO",
+        "dawka": "20–40 mg",
+        "czestotliwosc": "1–2x dziennie",
+        "uwagi": "Monitorować elektrolity"
+      }
+    ],
+    "interakcje": [
+      "Digoksyna",
+      "Aminoglikozydy"
+    ],
+    "przeciwwskazania": [
+      "Hipowolemia",
+      "Ciężka hipokaliemia"
+    ],
+    "antidotum": "Uzupełnianie płynów i elektrolitów",
+    "kolor": "#3498db"
   }
 ]
