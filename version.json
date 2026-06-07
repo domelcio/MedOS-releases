@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.9",
-  "leki_version": "1.0.6",
-  "changelog": "Opisana na github",
+  "leki_version": "1.0.7",
+  "changelog": "Dodano: Oksykodon, Tramadol, Paracetamol, Ibuprofen, Nalmefen, Etomidat ",
   "download_url": "https://github.com/domelcio/medpanel-releases/releases/latest/download/medpanel.exe"
 }
