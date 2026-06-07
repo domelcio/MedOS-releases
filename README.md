@@ -1,4 +1,4 @@
-# ⚕  MedPanel FiveM
+# ⚕  MedOS FiveM
 Nakładka dla medyków roleplay na serwerach **FiveM**.
 Baza leków, dawkowanie, interakcje, kalkulator dawek, akcje medyczne i sterowanie głosowe **bez wychodzenia z gry**.
 
