@@ -4,13 +4,13 @@
   "kategoria": "Opioid",
   "opis": "Silny opioidowy lek przeciwbólowy stosowany w silnym i bardzo silnym bólu.",
   "dawkowanie": [
-      {"droga":"IV (dożylnie)","dawka":"0.05–0.1 mg/kg","czestotliwosc":"Co 4–6h","uwagi":"Podawać powoli przez 5 min"},
-      {"droga":"IM (domięśniowo)","dawka":"0.1–0.2 mg/kg","czestotliwosc":"Co 4–6h","uwagi":"Maks. 15 mg jednorazowo"},
-      {"droga":"SC (podskórnie)","dawka":"0.1–0.2 mg/kg","czestotliwosc":"Co 4–6h","uwagi":"Wolniejsze wchłanianie"}
+      {"droga":"IV (dożylnie)","dawka":"0.05-0.1 mg/kg","czestotliwosc":"Co 4-6h","uwagi":"Podawać powoli przez 5 min"},
+      {"droga":"IM (domięśniowo)","dawka":"0.1-0.2 mg/kg","czestotliwosc":"Co 4-6h","uwagi":"Maks. 15 mg jednorazowo"},
+      {"droga":"SC (podskórnie)","dawka":"0.1-0.2 mg/kg","czestotliwosc":"Co 4-6h","uwagi":"Wolniejsze wchłanianie"}
     ],
     "interakcje": ["Benzodiazepiny (nasilenie depresji OUN)","Alkohol","Inne opioidy"],
     "przeciwwskazania": ["Niewydolność oddechowa","Astma oskrzelowa","Urazy głowy z podwyższonym ICP"],
-    "antidotum": "Nalokson 0.4–2 mg IV",
+    "antidotum": "Nalokson 0.4-2 mg IV",
     "kolor": "#e74c3c"
 },
 
@@ -19,9 +19,9 @@
   "kategoria": "Anestetyk",
   "opis": "Dysocjacyjny środek znieczulający. Działa analgetycznie, sedacyjnie i amnestycznie.",
   "dawkowanie": [
-      {"droga":"IV (indukcja)","dawka":"1–2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać przez 60 sekund"},
-      {"droga":"IV (analgezja)","dawka":"0.1–0.5 mg/kg","czestotliwosc":"Jednorazowo lub infuzja","uwagi":"Subdysocjacyjna"},
-      {"droga":"IM","dawka":"4–6 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Gdy brak dostępu IV"}
+      {"droga":"IV (indukcja)","dawka":"12 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać przez 60 sekund"},
+      {"droga":"IV (analgezja)","dawka":"0.1-0.5 mg/kg","czestotliwosc":"Jednorazowo lub infuzja","uwagi":"Subdysocjacyjna"},
+      {"droga":"IM","dawka":"4-6 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Gdy brak dostępu IV"}
     ],
     "interakcje": ["Benzodiazepiny (redukują halucynacje)","Leki przeciwnadciśnieniowe"],
     "przeciwwskazania": ["Schizofrenia","Ciężkie nadciśnienie","Tyreotoksykoza"],
@@ -34,9 +34,9 @@
   "kategoria": "Katecholamina",
   "opis": "Lek pierwszego rzutu w zatrzymaniu krążenia i anafilaksji.",
   "dawkowanie": [
-      {"droga":"IV (NZK)","dawka":"1 mg","czestotliwosc":"Co 3–5 min","uwagi":"Rozcieńczyć do 10 ml NaCl"},
-      {"droga":"IM (anafilaksja)","dawka":"0.3–0.5 mg (1:1000)","czestotliwosc":"Co 5–15 min","uwagi":"Udo (zewnętrzna strona)"},
-      {"droga":"Infuzja IV","dawka":"0.01–1 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Wstrząs oporny na leczenie"}
+      {"droga":"IV (NZK)","dawka":"1 mg","czestotliwosc":"Co 3-5 min","uwagi":"Rozcieńczyć do 10 ml NaCl"},
+      {"droga":"IM (anafilaksja)","dawka":"0.3-0.5 mg (1:1000)","czestotliwosc":"Co 5-15 min","uwagi":"Udo (zewnętrzna strona)"},
+      {"droga":"Infuzja IV","dawka":"0.01-1 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Wstrząs oporny na leczenie"}
     ],
     "interakcje": ["Beta-blokery (antagonizm)","Leki trójpierścieniowe (nasilenie działania)"],
     "przeciwwskazania": ["Brak w NZK i anafilaksji (zagrożenie życia)"],
@@ -49,9 +49,9 @@
   "kategoria": "Benzodiazepin",
   "opis": "Benzodiazepin o krótkim działaniu. Sedacja, anksjoliza, amnezja wsteczna.",
   "dawkowanie": [
-      {"droga":"IV (sedacja)","dawka":"0.01–0.1 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Miareczkować co 2 min"},
-      {"droga":"IM","dawka":"0.1–0.2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 10 mg"},
-      {"droga":"IN (donosowo)","dawka":"0.2–0.3 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Padaczka – szybkie działanie"}
+      {"droga":"IV (sedacja)","dawka":"0.01-0.1 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Miareczkować co 2 min"},
+      {"droga":"IM","dawka":"0.1-0.2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 10 mg"},
+      {"droga":"IN (donosowo)","dawka":"0.2-0.3 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Padaczka - szybkie działanie"}
     ],
     "interakcje": ["Opioidy (nasilenie depresji oddechowej)","Alkohol","Propofol"],
     "przeciwwskazania": ["Ciężka niewydolność oddechowa","Miastenia gravis"],
@@ -64,11 +64,11 @@
   "kategoria": "Antidotum",
   "opis": "Antagonista receptorów opioidowych. Odwraca depresję oddechową wywołaną opioidami.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"0.4–2 mg","czestotliwosc":"Co 2–3 min (maks. 10 mg)","uwagi":"Titracja do powrotu oddechu"},
-      {"droga":"IM/SC","dawka":"0.4–0.8 mg","czestotliwosc":"Co 2–3 min","uwagi":"Gdy brak dostępu IV"},
+      {"droga":"IV","dawka":"0.4-2 mg","czestotliwosc":"Co 2-3 min (maks. 10 mg)","uwagi":"Titracja do powrotu oddechu"},
+      {"droga":"IM/SC","dawka":"0.4-0.8 mg","czestotliwosc":"Co 2-3 min","uwagi":"Gdy brak dostępu IV"},
       {"droga":"IN (donosowo)","dawka":"2 mg (1 mg/nozdrze)","czestotliwosc":"Jednorazowo","uwagi":"Szybkie działanie"}
     ],
-    "interakcje": ["Opioidy (antagonizm – może wywołać ostry zespół odstawienny)"],
+    "interakcje": ["Opioidy (antagonizm - może wywołać ostry zespół odstawienny)"],
     "przeciwwskazania": ["Ostrożnie u uzależnionych od opioidów"],
     "antidotum": "Sam jest antidotum",
     "kolor": "#27ae60"
@@ -79,13 +79,13 @@
   "kategoria": "Opioid",
   "opis": "Bardzo silny opioid (100x silniejszy niż morfina). Szybki początek działania.",
   "dawkowanie": [
-      {"droga":"IV (analgezja)","dawka":"1–2 mcg/kg","czestotliwosc":"Co 30–60 min","uwagi":"Podawać powoli IV"},
-      {"droga":"IN (donosowo)","dawka":"1.5–2 mcg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 1 ml/nozdrze"},
-      {"droga":"IM","dawka":"1–2 mcg/kg","czestotliwosc":"Co 1–2h","uwagi":"Wolniejszy efekt niż IV"}
+      {"droga":"IV (analgezja)","dawka":"1-2 mcg/kg","czestotliwosc":"Co 30-60 min","uwagi":"Podawać powoli IV"},
+      {"droga":"IN (donosowo)","dawka":"1.5-2 mcg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 1 ml/nozdrze"},
+      {"droga":"IM","dawka":"1-2 mcg/kg","czestotliwosc":"Co 1-2h","uwagi":"Wolniejszy efekt niż IV"}
     ],
     "interakcje": ["MAO inhibitory (niebezpieczna kombinacja)","Benzodiazepiny","Alkohol"],
     "przeciwwskazania": ["Niewydolność oddechowa bez zabezpieczenia dróg oddechowych"],
-    "antidotum": "Nalokson 0.4–2 mg IV",
+    "antidotum": "Nalokson 0.4-2 mg IV",
     "kolor": "#c0392b"
 },
 
@@ -94,9 +94,9 @@
   "kategoria": "Antycholinergik",
   "opis": "Antagonista muskarynowy. Stosowana w bradykardii, bloku AV i zatruciach cholinergicznych.",
   "dawkowanie": [
-      {"droga":"IV (bradykardia)","dawka":"0.5–1 mg","czestotliwosc":"Co 3–5 min (maks. 3 mg)","uwagi":"Maks. 3 mg łącznie"},
-      {"droga":"IV (intubacja RSI)","dawka":"0.01–0.02 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Min. 0.1 mg – unikaj bradykardii"},
-      {"droga":"IV (zatrucie OP)","dawka":"2–4 mg","czestotliwosc":"Co 5–10 min do efektu","uwagi":"Duże dawki w zatruciach"}
+      {"droga":"IV (bradykardia)","dawka":"0.5-1 mg","czestotliwosc":"Co 3-5 min (maks. 3 mg)","uwagi":"Maks. 3 mg łącznie"},
+      {"droga":"IV (intubacja RSI)","dawka":"0.01-0.02 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Min. 0.1 mg - unikaj bradykardii"},
+      {"droga":"IV (zatrucie OP)","dawka":"2-4 mg","czestotliwosc":"Co 5-10 min do efektu","uwagi":"Duże dawki w zatruciach"}
     ],
     "interakcje": ["Leki antycholinergiczne (sumowanie efektów)","Digoksyna"],
     "przeciwwskazania": ["Jaskra z wąskim kątem","Tachykardia (w innych wskazaniach)"],
@@ -109,7 +109,7 @@
   "kategoria": "Antyarytmik",
   "opis": "Antyarytmik klasy III. Stosowany w VF, VT bez tętna i tachyarytmiach.",
   "dawkowanie": [
-      {"droga":"IV (NZK – VF/VT)","dawka":"300 mg","czestotliwosc":"Jednorazowo po 3. defibrylacji","uwagi":"Następnie 150 mg po 5. defibrylacji"},
+      {"droga":"IV (NZK - VF/VT)","dawka":"300 mg","czestotliwosc":"Jednorazowo po 3. defibrylacji","uwagi":"Następnie 150 mg po 5. defibrylacji"},
       {"droga":"IV (tachyarytmia)","dawka":"150 mg przez 10 min","czestotliwosc":"Następnie infuzja","uwagi":"Infuzja: 1 mg/min przez 6h"},
       {"droga":"Infuzja podtrzymująca","dawka":"0.5 mg/min","czestotliwosc":"Przez 18h","uwagi":"Maks. 2.2 g/24h"}
     ],
@@ -124,10 +124,10 @@
   "kategoria": "Benzodiazepin",
   "opis": "Lek przeciwdrgawkowy, uspokajający i miorelaksacyjny. Stosowany w drgawkach, sedacji i stanach lękowych.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"0.1–0.3 mg/kg","czestotliwosc":"Powoli co 5 min","uwagi":"Maks. 10 mg jednorazowo"},
-      {"droga":"IM","dawka":"0.2–0.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 20 mg"},
+      {"droga":"IV","dawka":"0.1-0.3 mg/kg","czestotliwosc":"Powoli co 5 min","uwagi":"Maks. 10 mg jednorazowo"},
+      {"droga":"IM","dawka":"0.2-0.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 20 mg"},
       {"droga":"PR (doodbytniczo)","dawka":"0.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Drgawki u dzieci"},
-      {"droga":"PO","dawka":"2–10 mg","czestotliwosc":"2–4x dziennie","uwagi":"Sedacja i lęk"}
+      {"droga":"PO","dawka":"2-10 mg","czestotliwosc":"2-4x dziennie","uwagi":"Sedacja i lęk"}
     ],
     "interakcje": ["Opioidy","Alkohol","Leki nasenne"],
     "przeciwwskazania": ["Miastenia gravis","Ciężka niewydolność oddechowa"],
@@ -140,9 +140,9 @@
   "kategoria": "Anestetyk",
   "opis": "Krótko działający anestetyk do sedacji i indukcji znieczulenia.",
   "dawkowanie": [
-      {"droga":"IV (indukcja)","dawka":"1–2.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Powolny bolus"},
-      {"droga":"IV (sedacja)","dawka":"0.5–1 mg/kg","czestotliwosc":"W razie potrzeby","uwagi":"Miareczkować"},
-      {"droga":"Infuzja IV","dawka":"5–50 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Sedacja OIT"}
+      {"droga":"IV (indukcja)","dawka":"1-2.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Powolny bolus"},
+      {"droga":"IV (sedacja)","dawka":"0.5-1 mg/kg","czestotliwosc":"W razie potrzeby","uwagi":"Miareczkować"},
+      {"droga":"Infuzja IV","dawka":"5-50 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Sedacja OIT"}
     ],
     "interakcje": ["Opioidy","Benzodiazepiny","Alkohol"],
     "przeciwwskazania": ["Niestabilność hemodynamiczna","Alergia na soję/jaja"],
@@ -155,9 +155,9 @@
   "kategoria": "Antyarytmik",
   "opis": "Lek przeciwarytmiczny klasy IB i środek miejscowo znieczulający.",
   "dawkowanie": [
-      {"droga":"IV (arytmia)","dawka":"1–1.5 mg/kg","czestotliwosc":"Bolus","uwagi":"Można powtórzyć 0.5–0.75 mg/kg"},
-      {"droga":"Infuzja IV","dawka":"1–4 mg/min","czestotliwosc":"Ciągła","uwagi":"Monitorować EKG"},
-      {"droga":"SC/miejscowo","dawka":"3–5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 300 mg bez adrenaliny"}
+      {"droga":"IV (arytmia)","dawka":"1-1.5 mg/kg","czestotliwosc":"Bolus","uwagi":"Można powtórzyć 0.5-0.75 mg/kg"},
+      {"droga":"Infuzja IV","dawka":"1-4 mg/min","czestotliwosc":"Ciągła","uwagi":"Monitorować EKG"},
+      {"droga":"SC/miejscowo","dawka":"3-5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 300 mg bez adrenaliny"}
     ],
     "interakcje": ["Beta-blokery","Amiodaron"],
     "przeciwwskazania": ["Blok AV II/III","Ciężka bradykardia"],
@@ -170,8 +170,8 @@
   "kategoria": "Katecholamina",
   "opis": "Silny wazopresor stosowany we wstrząsie septycznym i hipotensji.",
   "dawkowanie": [
-      {"droga":"Infuzja IV","dawka":"0.05–1 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Preferowany dostęp centralny"},
-      {"droga":"IV","dawka":"5–20 mcg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do MAP ≥65 mmHg"}
+      {"droga":"Infuzja IV","dawka":"0.05-1 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Preferowany dostęp centralny"},
+      {"droga":"IV","dawka":"5-20 mcg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do MAP ≥65 mmHg"}
     ],
     "interakcje": ["MAO inhibitory","TLPD"],
     "przeciwwskazania": ["Hipowolemia bez resuscytacji płynowej"],
@@ -184,7 +184,7 @@
   "kategoria": "Katecholamina",
   "opis": "Lek inotropowy i wazopresyjny stosowany w hipotensji i bradykardii.",
   "dawkowanie": [
-      {"droga":"Infuzja IV","dawka":"2–20 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Efekt zależny od dawki"}
+      {"droga":"Infuzja IV","dawka":"2-20 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Efekt zależny od dawki"}
     ],
     "interakcje": ["MAO inhibitory","Leki sympatykomimetyczne"],
     "przeciwwskazania": ["Tachyarytmie","Feochromocytoma"],
@@ -197,7 +197,7 @@
   "kategoria": "Metaboliczny",
   "opis": "Roztwór glukozy stosowany w hipoglikemii.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"0.2–0.5 g/kg","czestotliwosc":"Jednorazowo","uwagi":"Monitorować glikemię"}
+      {"droga":"IV","dawka":"0.2-0.5 g/kg","czestotliwosc":"Jednorazowo","uwagi":"Monitorować glikemię"}
     ],
     "interakcje": ["Insulina"],
     "przeciwwskazania": ["Hiperglikemia"],
@@ -224,8 +224,8 @@
   "kategoria": "Beta2-mimetyk",
   "opis": "Lek rozszerzający oskrzela stosowany w astmie i POChP.",
   "dawkowanie": [
-      {"droga":"Nebulizacja","dawka":"2.5–5 mg","czestotliwosc":"Co 20 min","uwagi":"Można powtarzać"},
-      {"droga":"INH","dawka":"100–200 mcg","czestotliwosc":"W razie potrzeby","uwagi":"MDI"}
+      {"droga":"Nebulizacja","dawka":"2.5-5 mg","czestotliwosc":"Co 20 min","uwagi":"Można powtarzać"},
+      {"droga":"INH","dawka":"100-200 mcg","czestotliwosc":"W razie potrzeby","uwagi":"MDI"}
     ],
     "interakcje": ["Beta-blokery","Diuretyki"],
     "przeciwwskazania": ["Tachyarytmie"],
@@ -238,7 +238,7 @@
   "kategoria": "Glikokortykosteroid",
   "opis": "Steroid stosowany w anafilaksji, astmie i niewydolności nadnerczy.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"100–200 mg","czestotliwosc":"Co 6–8h","uwagi":"Anafilaksja i wstrząs"}
+      {"droga":"IV","dawka":"100-200 mg","czestotliwosc":"Co 6-8h","uwagi":"Anafilaksja i wstrząs"}
     ],
     "interakcje": ["NLPZ","Insulina"],
     "przeciwwskazania": ["Brak bezwzględnych w stanach nagłych"],
@@ -251,8 +251,8 @@
   "kategoria": "Przeciwwymiotny",
   "opis": "Antagonista 5-HT3 stosowany przeciw nudnościom i wymiotom.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"4–8 mg","czestotliwosc":"Co 8h","uwagi":"Podawać powoli"},
-      {"droga":"PO","dawka":"4–8 mg","czestotliwosc":"Co 8h","uwagi":"Tabletki"}
+      {"droga":"IV","dawka":"4-8 mg","czestotliwosc":"Co 8h","uwagi":"Podawać powoli"},
+      {"droga":"PO","dawka":"4-8 mg","czestotliwosc":"Co 8h","uwagi":"Tabletki"}
     ],
     "interakcje": ["Leki wydłużające QT","SSRI"],
     "przeciwwskazania": ["Wrodzony zespół długiego QT"],
@@ -266,7 +266,7 @@
   "opis": "Lek stosowany w częstoskurczu nadkomorowym (SVT). Powoduje krótkotrwały blok AV.",
   "dawkowanie": [
       {"droga":"IV","dawka":"6 mg szybki bolus","czestotliwosc":"Jednorazowo","uwagi":"Następnie przepłukać 20 ml NaCl"},
-      {"droga":"IV","dawka":"12 mg szybki bolus","czestotliwosc":"Po 1–2 min jeśli brak efektu","uwagi":"Można powtórzyć raz"}
+      {"droga":"IV","dawka":"12 mg szybki bolus","czestotliwosc":"Po 1-2 min jeśli brak efektu","uwagi":"Można powtórzyć raz"}
     ],
     "interakcje": ["Teofilina (osłabia działanie)","Dipirydamol (nasila działanie)"],
     "przeciwwskazania": ["Blok AV II/III","Astma ciężka","Migotanie przedsionków z WPW"],
@@ -279,8 +279,8 @@
   "kategoria": "Beta-bloker",
   "opis": "Selektywny beta1-adrenolityk stosowany w tachyarytmiach, ACS i nadciśnieniu.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"2.5–5 mg","czestotliwosc":"Co 5 min","uwagi":"Maks. 15 mg"},
-      {"droga":"PO","dawka":"25–100 mg","czestotliwosc":"1–2x dziennie","uwagi":"Dostosować do HR i RR"}
+      {"droga":"IV","dawka":"2.5-5 mg","czestotliwosc":"Co 5 min","uwagi":"Maks. 15 mg"},
+      {"droga":"PO","dawka":"25-100 mg","czestotliwosc":"1-2x dziennie","uwagi":"Dostosować do HR i RR"}
     ],
     "interakcje": ["Werapamil","Digoksyna","Insulina"],
     "przeciwwskazania": ["Bradykardia","Blok AV","Wstrząs kardiogenny"],
@@ -294,7 +294,7 @@
   "opis": "Lek rozszerzający naczynia stosowany w bólu wieńcowym i obrzęku płuc.",
   "dawkowanie": [
       {"droga":"SL","dawka":"0.4 mg","czestotliwosc":"Co 5 min","uwagi":"Maks. 3 dawki"},
-      {"droga":"Infuzja IV","dawka":"5–200 mcg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do efektu"}
+      {"droga":"Infuzja IV","dawka":"5-200 mcg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do efektu"}
     ],
     "interakcje": ["Sildenafil","Tadalafil","Leki hipotensyjne"],
     "przeciwwskazania": ["Hipotensja","Zawał prawej komory","Stosowanie inhibitorów PDE5"],
@@ -307,8 +307,8 @@
   "kategoria": "Glikozyd nasercowy",
   "opis": "Lek zwiększający kurczliwość serca i zwalniający przewodzenie AV.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"0.25–0.5 mg","czestotliwosc":"Co 4–6h","uwagi":"Dawka nasycająca"},
-      {"droga":"PO","dawka":"0.125–0.25 mg","czestotliwosc":"1x dziennie","uwagi":"Monitorować stężenie"}
+      {"droga":"IV","dawka":"0.25-0.5 mg","czestotliwosc":"Co 4-6h","uwagi":"Dawka nasycająca"},
+      {"droga":"PO","dawka":"0.125-0.25 mg","czestotliwosc":"1x dziennie","uwagi":"Monitorować stężenie"}
     ],
     "interakcje": ["Amiodaron","Werapamil","Diuretyki"],
     "przeciwwskazania": ["Blok AV","Hipokaliemia","VF"],
@@ -321,8 +321,8 @@
   "kategoria": "Bloker kanału wapniowego",
   "opis": "Lek przeciwarytmiczny i przeciwnadciśnieniowy stosowany w SVT i AF.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"2.5–5 mg","czestotliwosc":"Przez 2 min","uwagi":"Można powtórzyć po 15–30 min"},
-      {"droga":"PO","dawka":"80–120 mg","czestotliwosc":"3x dziennie","uwagi":"Postać IR"}
+      {"droga":"IV","dawka":"2.5-5 mg","czestotliwosc":"Przez 2 min","uwagi":"Można powtórzyć po 15-30 min"},
+      {"droga":"PO","dawka":"80-120 mg","czestotliwosc":"3x dziennie","uwagi":"Postać IR"}
     ],
     "interakcje": ["Beta-blokery","Digoksyna"],
     "przeciwwskazania": ["Bradykardia","HFrEF","Blok AV"],
@@ -335,7 +335,7 @@
   "kategoria": "Inotropowy",
   "opis": "Agonista beta1 zwiększający kurczliwość mięśnia sercowego.",
   "dawkowanie": [
-      {"droga":"Infuzja IV","dawka":"2–20 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Monitorować HR i RR"}
+      {"droga":"Infuzja IV","dawka":"2-20 mcg/kg/min","czestotliwosc":"Ciągła","uwagi":"Monitorować HR i RR"}
     ],
     "interakcje": ["Beta-blokery","MAO inhibitory"],
     "przeciwwskazania": ["Kardiomiopatia przerostowa","Tachyarytmie"],
@@ -348,8 +348,8 @@
   "kategoria": "Przeciwzakrzepowy",
   "opis": "Antykoagulant stosowany w ACS, PE i zakrzepicy.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"60–80 U/kg bolus","czestotliwosc":"Jednorazowo","uwagi":"Maks. 5000 U"},
-      {"droga":"Infuzja IV","dawka":"12–18 U/kg/h","czestotliwosc":"Ciągła","uwagi":"Kontrola APTT"}
+      {"droga":"IV","dawka":"60-80 U/kg bolus","czestotliwosc":"Jednorazowo","uwagi":"Maks. 5000 U"},
+      {"droga":"Infuzja IV","dawka":"12-18 U/kg/h","czestotliwosc":"Ciągła","uwagi":"Kontrola APTT"}
     ],
     "interakcje": ["ASA","Klopidogrel","NLPZ"],
     "przeciwwskazania": ["Aktywne krwawienie","HIT"],
@@ -362,7 +362,7 @@
   "kategoria": "Przeciwpłytkowy",
   "opis": "Inhibitor P2Y12 stosowany w ACS i po angioplastyce.",
   "dawkowanie": [
-      {"droga":"PO","dawka":"300–600 mg","czestotliwosc":"Dawka nasycająca","uwagi":"ACS/PCI"},
+      {"droga":"PO","dawka":"300-600 mg","czestotliwosc":"Dawka nasycająca","uwagi":"ACS/PCI"},
       {"droga":"PO","dawka":"75 mg","czestotliwosc":"1x dziennie","uwagi":"Leczenie podtrzymujące"}
     ],
     "interakcje": ["Omeprazol","Warfaryna"],
@@ -376,8 +376,8 @@
   "kategoria": "Przeciwpłytkowy",
   "opis": "Lek przeciwpłytkowy stosowany w ACS i profilaktyce sercowo-naczyniowej.",
   "dawkowanie": [
-      {"droga":"PO","dawka":"150–325 mg","czestotliwosc":"Jednorazowo","uwagi":"Rozgryźć w ACS"},
-      {"droga":"PO","dawka":"75–100 mg","czestotliwosc":"1x dziennie","uwagi":"Profilaktyka"}
+      {"droga":"PO","dawka":"150-325 mg","czestotliwosc":"Jednorazowo","uwagi":"Rozgryźć w ACS"},
+      {"droga":"PO","dawka":"75-100 mg","czestotliwosc":"1x dziennie","uwagi":"Profilaktyka"}
     ],
     "interakcje": ["Heparyna","Warfaryna","NLPZ"],
     "przeciwwskazania": ["Aktywne krwawienie","Alergia na salicylany"],
@@ -390,8 +390,8 @@
   "kategoria": "Diuretyk",
   "opis": "Diuretyk pętlowy stosowany w obrzęku płuc i niewydolności serca.",
   "dawkowanie": [
-      {"droga":"IV","dawka":"20–80 mg","czestotliwosc":"Powoli IV","uwagi":"Można powtarzać"},
-      {"droga":"PO","dawka":"20–40 mg","czestotliwosc":"1–2x dziennie","uwagi":"Monitorować elektrolity"}
+      {"droga":"IV","dawka":"20-80 mg","czestotliwosc":"Powoli IV","uwagi":"Można powtarzać"},
+      {"droga":"PO","dawka":"20-40 mg","czestotliwosc":"1-2x dziennie","uwagi":"Monitorować elektrolity"}
     ],
     "interakcje": ["Digoksyna","Aminoglikozydy"],
     "przeciwwskazania": ["Hipowolemia","Ciężka hipokaliemia"],
@@ -406,7 +406,7 @@
   "dawkowanie": [
     {"droga":"IV (RSI)","dawka":"1.2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Efekt po 60 sek."},
     {"droga":"IV (intubacja planowa)","dawka":"0.6 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Efekt po 90 sek."},
-    {"droga":"IV (podtrzymanie)","dawka":"0.1–0.2 mg/kg","czestotliwosc":"Co 20–30 min","uwagi":"Monitorować TOF"}
+    {"droga":"IV (podtrzymanie)","dawka":"0.1-0.2 mg/kg","czestotliwosc":"Co 20-30 min","uwagi":"Monitorować TOF"}
   ],
   "interakcje": ["Aminoglikozydy (nasilenie blokady)","Amiodaron","Leki przeciwdrgawkowe (skrócenie działania)"],
   "przeciwwskazania": ["Alergia na rokuroniom","Brak możliwości zabezpieczenia dróg oddechowych"],
@@ -417,10 +417,10 @@
 {
   "nazwa": "Suksametonium",
   "kategoria": "Zwiotczający mięśnie",
-  "opis": "Depolaryzujący blokator nerwowo-mięśniowy. Najszybszy początek działania – złoty standard w RSI.",
+  "opis": "Depolaryzujący blokator nerwowo-mięśniowy. Najszybszy początek działania - złoty standard w RSI.",
   "dawkowanie": [
-    {"droga":"IV (RSI)","dawka":"1–1.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Efekt po 30–60 sek., czas 10–15 min"},
-    {"droga":"IM","dawka":"3–4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Gdy brak dostępu IV, maks. 150 mg"}
+    {"droga":"IV (RSI)","dawka":"1-1.5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Efekt po 30-60 sek., czas 10-15 min"},
+    {"droga":"IM","dawka":"3-4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Gdy brak dostępu IV, maks. 150 mg"}
   ],
   "interakcje": ["Inhibitory cholinesterazy (przedłużenie działania)","Glikozydy nasercowe (ryzyko arytmii)"],
   "przeciwwskazania": ["Hiperkaliemia","Oparzenia >24h","Zmiażdżenia","Miopatie","Hipertermia złośliwa"],
@@ -433,9 +433,9 @@
   "kategoria": "Elektrolitowy",
   "opis": "Preparat wapnia stosowany w hiperkaliemii, hipokalcemii, przedawkowaniu blokerów kanału wapniowego i hipermagnezemii.",
   "dawkowanie": [
-    {"droga":"IV (hiperkaliemia)","dawka":"10 ml 10% (1 g)","czestotliwosc":"Jednorazowo przez 2–3 min","uwagi":"Stabilizuje błonę kardiomiocytów"},
-    {"droga":"IV (hipokalcemia)","dawka":"10–20 ml 10%","czestotliwosc":"Powoli przez 10 min","uwagi":"Monitorować EKG"},
-    {"droga":"IV (przedawkowanie CCB)","dawka":"3 g","czestotliwosc":"Powtarzać co 10–20 min","uwagi":"Do 9 g łącznie"}
+    {"droga":"IV (hiperkaliemia)","dawka":"10 ml 10% (1 g)","czestotliwosc":"Jednorazowo przez 2-3 min","uwagi":"Stabilizuje błonę kardiomiocytów"},
+    {"droga":"IV (hipokalcemia)","dawka":"10-20 ml 10%","czestotliwosc":"Powoli przez 10 min","uwagi":"Monitorować EKG"},
+    {"droga":"IV (przedawkowanie CCB)","dawka":"3 g","czestotliwosc":"Powtarzać co 10-20 min","uwagi":"Do 9 g łącznie"}
   ],
   "interakcje": ["Digoksyna (ryzyko toksyczności)","Ceftriakson (precypitacja u noworodków)"],
   "przeciwwskazania": ["Hiperkalcemia","Kamica nerkowa (ostrożnie)"],
@@ -448,8 +448,8 @@
   "kategoria": "Elektrolitowy",
   "opis": "Stosowany w rzucawce, hipomagnezemiи, torsades de pointes, ciężkiej astmie i zatruciu blokerami kanałów wapniowych.",
   "dawkowanie": [
-    {"droga":"IV (rzucawka)","dawka":"4–6 g przez 15–20 min","czestotliwosc":"Jednorazowo","uwagi":"Następnie infuzja 1–2 g/h"},
-    {"droga":"IV (TdP/arytmia)","dawka":"2 g przez 1–2 min","czestotliwosc":"Jednorazowo","uwagi":"Rozcieńczyć w 100 ml NaCl"},
+    {"droga":"IV (rzucawka)","dawka":"4-6 g przez 15-20 min","czestotliwosc":"Jednorazowo","uwagi":"Następnie infuzja 1-2 g/h"},
+    {"droga":"IV (TdP/arytmia)","dawka":"2 g przez 1-2 min","czestotliwosc":"Jednorazowo","uwagi":"Rozcieńczyć w 100 ml NaCl"},
     {"droga":"IV (astma ciężka)","dawka":"2 g przez 20 min","czestotliwosc":"Jednorazowo","uwagi":"Adjuwant przy braku odpowiedzi na beta2-mimetyki"}
   ],
   "interakcje": ["Blokery kanału wapniowego (nasilenie hipotensji)","Rokuroniom/Suksametonium (nasilenie blokady)"],
@@ -463,7 +463,7 @@
   "kategoria": "Hemostatyczny",
   "opis": "Inhibitor fibrynolizy stosowany w krwawieniach pourazowych, chirurgicznych i położniczych.",
   "dawkowanie": [
-    {"droga":"IV (uraz)","dawka":"1 g przez 10 min","czestotliwosc":"Jednorazowo","uwagi":"Następnie 1 g przez 8h – podać jak najszybciej"},
+    {"droga":"IV (uraz)","dawka":"1 g przez 10 min","czestotliwosc":"Jednorazowo","uwagi":"Następnie 1 g przez 8h - podać jak najszybciej"},
     {"droga":"IV (krwawienie położnicze)","dawka":"1 g przez 10 min","czestotliwosc":"Można powtórzyć 1x po 30 min","uwagi":"Jak najszybciej po porodzie"},
     {"droga":"IV (profilaktyka chirurgiczna)","dawka":"15 mg/kg","czestotliwosc":"Przed operacją","uwagi":"Maks. 1 g"}
   ],
@@ -484,7 +484,7 @@
   "opis": "Swoisty antagonista receptorów benzodiazepinowych. Odwraca sedację i depresję oddechową po benzodiazepinach.",
   "dawkowanie": [
     {"droga":"IV","dawka":"0.2 mg przez 15 sek.","czestotliwosc":"Co 60 sek. do efektu","uwagi":"Maks. 1 mg łącznie"},
-    {"droga":"IV (wznowienie sedacji)","dawka":"0.1 mg","czestotliwosc":"Co 60 sek.","uwagi":"Krótszy t½ niż benzodiazepiny – możliwy powrót sedacji"}
+    {"droga":"IV (wznowienie sedacji)","dawka":"0.1 mg","czestotliwosc":"Co 60 sek.","uwagi":"Krótszy t½ niż benzodiazepiny - możliwy powrót sedacji"}
   ],
   "interakcje": ["Benzodiazepiny (antagonizm)","Trójpierścieniowe leki przeciwdepresyjne (ryzyko drgawek po odwróceniu)"],
   "przeciwwskazania": ["Epilepsja leczona benzodiazepinami","Uzależnienie od benzodiazepin (ryzyko ostrego zespołu odstawiennego)"],
@@ -497,11 +497,11 @@
   "kategoria": "Antidotum",
   "opis": "Selektywny antagonista rokuroniom i wekuroniom. Natychmiastowe odwrócenie blokady nerwowo-mięśniowej.",
   "dawkowanie": [
-    {"droga":"IV (rutynowe odwrócenie)","dawka":"2–4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Po TOF ≥2 odpowiedzi"},
-    {"droga":"IV (natychmiastowe odwrócenie RSI)","dawka":"16 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Sytuacja cannot intubate – cannot oxygenate"},
-    {"droga":"IV (głęboka blokada)","dawka":"4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"TOF = 0, PTC 1–2"}
+    {"droga":"IV (rutynowe odwrócenie)","dawka":"2-4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Po TOF ≥2 odpowiedzi"},
+    {"droga":"IV (natychmiastowe odwrócenie RSI)","dawka":"16 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Sytuacja cannot intubate - cannot oxygenate"},
+    {"droga":"IV (głęboka blokada)","dawka":"4 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"TOF = 0, PTC 1-2"}
   ],
-  "interakcje": ["Hormony antykoncepcyjne (zmniejszona skuteczność – stosować dodatkowe zabezpieczenie przez 7 dni)","Toremifen"],
+  "interakcje": ["Hormony antykoncepcyjne (zmniejszona skuteczność - stosować dodatkowe zabezpieczenie przez 7 dni)","Toremifen"],
   "przeciwwskazania": ["Ciężka niewydolność nerek (ostrożnie)","Alergia na sugammadeks"],
   "antidotum": "Nie dotyczy",
   "kolor": "#a29bfe"
@@ -513,7 +513,7 @@
   "opis": "Hormon antydiuretyczny stosowany jako wazopresor w wstrząsie septycznym i NZK opornym na adrenalinę.",
   "dawkowanie": [
     {"droga":"IV (NZK)","dawka":"40 j.m.","czestotliwosc":"Jednorazowo","uwagi":"Alternatywa lub uzupełnienie adrenaliny"},
-    {"droga":"Infuzja IV (wstrząs septyczny)","dawka":"0.03–0.04 j.m./min","czestotliwosc":"Ciągła","uwagi":"Nie miareczkować – stała dawka"}
+    {"droga":"Infuzja IV (wstrząs septyczny)","dawka":"0.03-0.04 j.m./min","czestotliwosc":"Ciągła","uwagi":"Nie miareczkować - stała dawka"}
   ],
   "interakcje": ["Leki wydłużające QT","Leki kardiodepresyjne"],
   "przeciwwskazania": ["Choroba wieńcowa (ostrożnie)","Hiponatremia przewlekła (ryzyko ODS)"],
@@ -526,9 +526,9 @@
   "kategoria": "Anestetyk",
   "opis": "Barbituran ultrakrótko działający. Indukcja znieczulenia, leczenie napadów drgawkowych i obniżenie ICP.",
   "dawkowanie": [
-    {"droga":"IV (indukcja)","dawka":"3–5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać powoli przez 30 sek."},
-    {"droga":"IV (status epilepticus)","dawka":"2–3 mg/kg","czestotliwosc":"Bolus, następnie infuzja 3–5 mg/kg/h","uwagi":"Śpiączka barbituranowa"},
-    {"droga":"IV (obniżenie ICP)","dawka":"1–3 mg/kg","czestotliwosc":"W razie potrzeby","uwagi":"Monitorować hemodynamikę"}
+    {"droga":"IV (indukcja)","dawka":"3-5 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać powoli przez 30 sek."},
+    {"droga":"IV (status epilepticus)","dawka":"2-3 mg/kg","czestotliwosc":"Bolus, następnie infuzja 3-5 mg/kg/h","uwagi":"Śpiączka barbituranowa"},
+    {"droga":"IV (obniżenie ICP)","dawka":"1-3 mg/kg","czestotliwosc":"W razie potrzeby","uwagi":"Monitorować hemodynamikę"}
   ],
   "interakcje": ["Opioidy","Benzodiazepiny","Alkohol"],
   "przeciwwskazania": ["Niestabilność hemodynamiczna","Porfiria","Brak zabezpieczenia dróg oddechowych"],
@@ -542,8 +542,8 @@
   "opis": "Nieselektywny alfa- i beta-adrenolityk stosowany w nadciśnieniu przełomowym, rzucawce i rozwarstwieniu aorty.",
   "dawkowanie": [
     {"droga":"IV (bolus)","dawka":"20 mg przez 2 min","czestotliwosc":"Co 10 min","uwagi":"Maks. 300 mg łącznie"},
-    {"droga":"Infuzja IV","dawka":"0.5–2 mg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do docelowego RR"},
-    {"droga":"PO","dawka":"100–200 mg","czestotliwosc":"2x dziennie","uwagi":"Dostosować do RR"}
+    {"droga":"Infuzja IV","dawka":"0.5-2 mg/min","czestotliwosc":"Ciągła","uwagi":"Miareczkować do docelowego RR"},
+    {"droga":"PO","dawka":"100-200 mg","czestotliwosc":"2x dziennie","uwagi":"Dostosować do RR"}
   ],
   "interakcje": ["Werapamil","Digoksyna","Leki hipotensyjne"],
   "przeciwwskazania": ["Bradykardia","Blok AV","Astma oskrzelowa","Wstrząs kardiogenny"],
@@ -561,7 +561,7 @@
     {"droga":"IV (3. dawka)","dawka":"100 mg/kg w 1000 ml G5%","czestotliwosc":"Przez 16h","uwagi":"Kontynuacja leczenia"}
   ],
   "interakcje": ["Węgiel aktywowany (zmniejszone wchłanianie doustne)","Nitrogliceryna (nasilenie efektu)"],
-  "przeciwwskazania": ["Alergia na NAC (ostrożnie – premedykacja)"],
+  "przeciwwskazania": ["Alergia na NAC (ostrożnie - premedykacja)"],
   "antidotum": "Sam jest antidotum",
   "kolor": "#55efc4"
 },
@@ -569,10 +569,10 @@
 {
   "nazwa": "Węgiel aktywowany",
   "kategoria": "Antidotum",
-  "opis": "Adsorpcja toksyn w przewodzie pokarmowym po doustnym spożyciu trucizn. Skuteczny do 1–2h od spożycia.",
+  "opis": "Adsorpcja toksyn w przewodzie pokarmowym po doustnym spożyciu trucizn. Skuteczny do 1-2h od spożycia.",
   "dawkowanie": [
     {"droga":"PO / sonda żołądkowa","dawka":"1 g/kg (maks. 50 g)","czestotliwosc":"Jednorazowo","uwagi":"Nie stosować przy ryzyku aspiracji"},
-    {"droga":"PO (wielokrotna dawka)","dawka":"25–50 g","czestotliwosc":"Co 4–6h","uwagi":"Teofilina, fenobarbital, karbamazepina"}
+    {"droga":"PO (wielokrotna dawka)","dawka":"25-50 g","czestotliwosc":"Co 4-6h","uwagi":"Teofilina, fenobarbital, karbamazepina"}
   ],
   "interakcje": ["Acetylcysteina doustna (zmniejszone wchłanianie)","Leki doustne (adsorpcja)"],
   "przeciwwskazania": ["Zaburzenia połykania","Niedrożność jelit","Zatrucia kwasami, zasadami, metalami"],
@@ -586,7 +586,7 @@
   "opis": "Silny steroid stosowany w obrzęku mózgu, zadu, ciężkiej COVID-19, nudnościach pooperacyjnych i wstrząsie septycznym.",
   "dawkowanie": [
     {"droga":"IV (obrzęk mózgu)","dawka":"10 mg","czestotliwosc":"Następnie 4 mg co 6h","uwagi":"Guz/przerzuty OUN"},
-    {"droga":"IV/IM (zad u dzieci)","dawka":"0.15–0.6 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 10 mg"},
+    {"droga":"IV/IM (zad u dzieci)","dawka":"0.15-0.6 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Maks. 10 mg"},
     {"droga":"IV (wstrząs septyczny)","dawka":"6 mg","czestotliwosc":"1x dziennie przez 10 dni","uwagi":"Według protokołu COVID/sepsis"}
   ],
   "interakcje": ["NLPZ","Insulina","Leki moczopędne"],
@@ -601,7 +601,7 @@
   "opis": "Heparyna drobnocząsteczkowa (LMWH) stosowana w ACS, PE, DVT i profilaktyce zakrzepowo-zatorowej.",
   "dawkowanie": [
     {"droga":"SC (profilaktyka)","dawka":"40 mg","czestotliwosc":"1x dziennie","uwagi":"Dostosować do masy ciała i funkcji nerek"},
-    {"droga":"SC (lecznicza – DVT/PE)","dawka":"1 mg/kg","czestotliwosc":"Co 12h","uwagi":"Lub 1.5 mg/kg raz dziennie"},
+    {"droga":"SC (lecznicza - DVT/PE)","dawka":"1 mg/kg","czestotliwosc":"Co 12h","uwagi":"Lub 1.5 mg/kg raz dziennie"},
     {"droga":"IV (STEMI/ACS)","dawka":"30 mg bolus IV","czestotliwosc":"Następnie 1 mg/kg SC co 12h","uwagi":"Pierwsze 2 dawki SC po 15 min od bolusu"}
   ],
   "interakcje": ["ASA","Klopidogrel","NLPZ","Warfaryna"],
@@ -615,12 +615,12 @@
   "kategoria": "Elektrolitowy",
   "opis": "Uzupełnianie potasu w hipokaliemii. Wymagana ścisła kontrola stężenia i szybkości podawania.",
   "dawkowanie": [
-    {"droga":"Infuzja IV (łagodna hipokaliemia)","dawka":"10–20 mEq/h","czestotliwosc":"Ciągła","uwagi":"Stężenie maks. 40 mEq/100 ml, tylko przez dostęp centralny"},
-    {"droga":"Infuzja IV (ciężka hipokaliemia z arytmią)","dawka":"20–40 mEq/h","czestotliwosc":"Ciągła z monitoringiem EKG","uwagi":"Wyłącznie OIOM / oddział intensywny"},
-    {"droga":"PO","dawka":"20–60 mEq/dobę","czestotliwosc":"W dawkach podzielonych","uwagi":"Suplementacja doustna"}
+    {"droga":"Infuzja IV (łagodna hipokaliemia)","dawka":"10-20 mEq/h","czestotliwosc":"Ciągła","uwagi":"Stężenie maks. 40 mEq/100 ml, tylko przez dostęp centralny"},
+    {"droga":"Infuzja IV (ciężka hipokaliemia z arytmią)","dawka":"20-40 mEq/h","czestotliwosc":"Ciągła z monitoringiem EKG","uwagi":"Wyłącznie OIOM / oddział intensywny"},
+    {"droga":"PO","dawka":"20-60 mEq/dobę","czestotliwosc":"W dawkach podzielonych","uwagi":"Suplementacja doustna"}
   ],
   "interakcje": ["Inhibitory ACE / ARB (hiperkaliemia)","Diuretyki oszczędzające potas","Digoksyna (hipokaliemia nasila toksyczność)"],
-  "przeciwwskazania": ["Hiperkaliemia","Oliguria / bezmocz","Szybki bolus IV – bezwzględnie zabroniony (ryzyko zatrzymania krążenia)"],
+  "przeciwwskazania": ["Hiperkaliemia","Oliguria / bezmocz","Szybki bolus IV - bezwzględnie zabroniony (ryzyko zatrzymania krążenia)"],
   "antidotum": "Glukonian wapnia (przy hiperkaliemii)",
   "kolor": "#fd79a8"
 },
@@ -630,13 +630,13 @@
   "kategoria": "Opioid",
   "opis": "Silny opioidowy lek przeciwbólowy stosowany w bólu umiarkowanym do silnego. Dostępny w formie IR i CR.",
   "dawkowanie": [
-    {"droga":"PO (IR – natychmiastowe uwalnianie)","dawka":"5–10 mg","czestotliwosc":"Co 4–6h","uwagi":"Titracja do efektu przeciwbólowego"},
-    {"droga":"PO (CR – kontrolowane uwalnianie)","dawka":"10–20 mg","czestotliwosc":"Co 12h","uwagi":"Nie kruszyć ani nie żuć tabletek"},
-    {"droga":"IV","dawka":"1–10 mg","czestotliwosc":"Co 4h","uwagi":"Podawać powoli przez 1–2 min"}
+    {"droga":"PO (IR - natychmiastowe uwalnianie)","dawka":"5-10 mg","czestotliwosc":"Co 4-6h","uwagi":"Titracja do efektu przeciwbólowego"},
+    {"droga":"PO (CR - kontrolowane uwalnianie)","dawka":"10-20 mg","czestotliwosc":"Co 12h","uwagi":"Nie kruszyć ani nie żuć tabletek"},
+    {"droga":"IV","dawka":"1-10 mg","czestotliwosc":"Co 4h","uwagi":"Podawać powoli przez 1-2 min"}
   ],
   "interakcje": ["Benzodiazepiny (nasilenie depresji OUN i oddechowej)","MAO inhibitory","Alkohol","Inhibitory CYP3A4 (wzrost stężenia)"],
   "przeciwwskazania": ["Niewydolność oddechowa","Ileus paralityczny","Ciężka niewydolność wątroby"],
-  "antidotum": "Nalokson 0.4–2 mg IV",
+  "antidotum": "Nalokson 0.4-2 mg IV",
   "kolor": "#e55039"
 },
 
@@ -645,13 +645,13 @@
   "kategoria": "Opioid",
   "opis": "Słaby opioid z dodatkowym mechanizmem hamowania wychwytu zwrotnego serotoniny i noradrenaliny. Ból umiarkowany.",
   "dawkowanie": [
-    {"droga":"IV / IM","dawka":"50–100 mg","czestotliwosc":"Co 4–6h","uwagi":"Maks. 400 mg/dobę, podawać powoli"},
-    {"droga":"PO (IR)","dawka":"50–100 mg","czestotliwosc":"Co 4–6h","uwagi":"Maks. 400 mg/dobę"},
-    {"droga":"PO (CR)","dawka":"100–200 mg","czestotliwosc":"Co 12h","uwagi":"Nie kruszyć"}
+    {"droga":"IV / IM","dawka":"50-100 mg","czestotliwosc":"Co 4-6h","uwagi":"Maks. 400 mg/dobę, podawać powoli"},
+    {"droga":"PO (IR)","dawka":"50-100 mg","czestotliwosc":"Co 4-6h","uwagi":"Maks. 400 mg/dobę"},
+    {"droga":"PO (CR)","dawka":"100-200 mg","czestotliwosc":"Co 12h","uwagi":"Nie kruszyć"}
   ],
-  "interakcje": ["MAO inhibitory (zespół serotoninowy – bezwzględnie unikać)","SSRI/SNRI","Benzodiazepiny","Leki obniżające próg drgawkowy"],
+  "interakcje": ["MAO inhibitory (zespół serotoninowy - bezwzględnie unikać)","SSRI/SNRI","Benzodiazepiny","Leki obniżające próg drgawkowy"],
   "przeciwwskazania": ["Padaczka","Stosowanie MAO inhibitorów","Ciężka niewydolność nerek/wątroby","Dzieci <12. r.ż."],
-  "antidotum": "Nalokson (częściowe odwrócenie – nie odwraca działania serotoninergicznego)",
+  "antidotum": "Nalokson (częściowe odwrócenie - nie odwraca działania serotoninergicznego)",
   "kolor": "#e67e22"
 },
 
@@ -660,9 +660,9 @@
   "kategoria": "Analgetyk/Przeciwgorączkowy",
   "opis": "Lek przeciwbólowy i przeciwgorączkowy o centralnym mechanizmie działania. Bezpieczny przy prawidłowej dawce.",
   "dawkowanie": [
-    {"droga":"IV (Perfalgan)","dawka":"1 g","czestotliwosc":"Co 6–8h","uwagi":"Wlew przez 15 min; maks. 4 g/dobę"},
-    {"droga":"PO","dawka":"500 mg – 1 g","czestotliwosc":"Co 4–6h","uwagi":"Maks. 4 g/dobę (2 g przy uszkodzeniu wątroby)"},
-    {"droga":"PR (czopki)","dawka":"500 mg – 1 g","czestotliwosc":"Co 6h","uwagi":"Wolniejsze wchłanianie"}
+    {"droga":"IV (Perfalgan)","dawka":"1 g","czestotliwosc":"Co 6-8h","uwagi":"Wlew przez 15 min; maks. 4 g/dobę"},
+    {"droga":"PO","dawka":"500 mg - 1 g","czestotliwosc":"Co 4-6h","uwagi":"Maks. 4 g/dobę (2 g przy uszkodzeniu wątroby)"},
+    {"droga":"PR (czopki)","dawka":"500 mg - 1 g","czestotliwosc":"Co 6h","uwagi":"Wolniejsze wchłanianie"}
   ],
   "interakcje": ["Warfaryna (wzrost INR przy przewlekłym stosowaniu)","Alkohol (hepatotoksyczność)","Induktory CYP2E1"],
   "przeciwwskazania": ["Ciężka niewydolność wątroby","Alergia na paracetamol"],
@@ -675,8 +675,8 @@
   "kategoria": "NLPZ",
   "opis": "Niesteroidowy lek przeciwzapalny (NLPZ). Działanie przeciwbólowe, przeciwzapalne i przeciwgorączkowe.",
   "dawkowanie": [
-    {"droga":"PO","dawka":"400–600 mg","czestotliwosc":"Co 6–8h","uwagi":"Maks. 2400 mg/dobę; przyjmować z posiłkiem"},
-    {"droga":"IV","dawka":"400–800 mg","czestotliwosc":"Co 6–8h","uwagi":"Wlew przez 30 min"},
+    {"droga":"PO","dawka":"400-600 mg","czestotliwosc":"Co 6-8h","uwagi":"Maks. 2400 mg/dobę; przyjmować z posiłkiem"},
+    {"droga":"IV","dawka":"400-800 mg","czestotliwosc":"Co 6-8h","uwagi":"Wlew przez 30 min"},
     {"droga":"PR (czopki)","dawka":"500 mg","czestotliwosc":"Co 8h","uwagi":"Alternatywa przy braku tolerancji PO"}
   ],
   "interakcje": ["ASA (antagonizm działania kardioprotekcyjnego)","Heparyna/Warfaryna (ryzyko krwawienia)","Inhibitory ACE (osłabienie efektu)","Diuretyki"],
@@ -690,10 +690,10 @@
   "kategoria": "Antidotum",
   "opis": "Długodziałający antagonista receptorów opioidowych. Stosowany w odwróceniu przedawkowania opioidów gdy Nalokson jest niewystarczający.",
   "dawkowanie": [
-    {"droga":"IV","dawka":"0.25 mcg/kg","czestotliwosc":"Co 2–5 min do efektu","uwagi":"Maks. 1 mcg/kg; titracja ostrożna"},
+    {"droga":"IV","dawka":"0.25 mcg/kg","czestotliwosc":"Co 2-5 min do efektu","uwagi":"Maks. 1 mcg/kg; titracja ostrożna"},
     {"droga":"IM/SC","dawka":"1 mg","czestotliwosc":"Jednorazowo","uwagi":"Gdy brak dostępu IV"}
   ],
-  "interakcje": ["Opioidy (antagonizm – ostry zespół odstawienny)","Flumazenil"],
+  "interakcje": ["Opioidy (antagonizm - ostry zespół odstawienny)","Flumazenil"],
   "przeciwwskazania": ["Uzależnienie od opioidów (ryzyko ciężkiego odstawienia)","Ostrożnie przy bólu przewlekłym leczonym opioidami"],
   "antidotum": "Sam jest antidotum",
   "kolor": "#6ab04c"
@@ -704,13 +704,77 @@
   "kategoria": "Anestetyk",
   "opis": "Środek wprowadzający do znieczulenia o minimalnym wpływie na układ krążenia. Preferowany w niestabilności hemodynamicznej.",
   "dawkowanie": [
-    {"droga":"IV (indukcja)","dawka":"0.2–0.3 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać przez 30–60 sek.; efekt w 60 sek."},
-    {"droga":"IV (sedacja proceduralna)","dawka":"0.1–0.2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Krótsze zabiegi diagnostyczne"}
+    {"droga":"IV (indukcja)","dawka":"0.2-0.3 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Podawać przez 30-60 sek.; efekt w 60 sek."},
+    {"droga":"IV (sedacja proceduralna)","dawka":"0.1-0.2 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Krótsze zabiegi diagnostyczne"}
   ],
   "interakcje": ["Opioidy (nasilenie sedacji)","Benzodiazepiny"],
-  "przeciwwskazania": ["Niedobór kortyzolu / niewydolność nadnerczy","Sepsa (hamuje syntezę kortyzolu – pojedyncza dawka akceptowalna)"],
+  "przeciwwskazania": ["Niedobór kortyzolu / niewydolność nadnerczy","Sepsa (hamuje syntezę kortyzolu - pojedyncza dawka akceptowalna)"],
   "antidotum": "Brak specyficznego antidotum",
   "kolor": "#4a4e69"
+},
+
+
+
+
+
+
+{
+  "nazwa": "Protaminy siarczan",
+  "kategoria": "Antidotum",
+  "opis": "Odwraca działanie heparyny niefrakcjonowanej i częściowo LMWH. Stosowany w krwawieniach po heparynizacji oraz po operacjach kardiochirurgicznych.",
+  "dawkowanie": [
+    {"droga":"IV (po UFH)","dawka":"1 mg na każde 100 j.m. heparyny","czestotliwosc":"Jednorazowo przez 10 min","uwagi":"Maks. 50 mg; monitorować APTT"},
+    {"droga":"IV (po LMWH - Enoksaparyna)","dawka":"1 mg na 1 mg enoksaparyny","czestotliwosc":"Jednorazowo","uwagi":"Odwrócenie częściowe (~60%), powtórzyć jeśli krwawienie utrzymuje się"},
+    {"droga":"IV (po CEC)","dawka":"Wg protokołu - zwykle 3-4 mg/kg","czestotliwosc":"Jednorazowo po odłączeniu od krążenia","uwagi":"Kontrola ACT"}
+  ],
+  "interakcje": ["Heparyna (antagonizm)","Leki trombolityczne"],
+  "przeciwwskazania": ["Alergia na ryby (zwiększone ryzyko reakcji)","Podanie zbyt szybkie (hipotensja, bradykardia)"],
+  "antidotum": "Nie dotyczy",
+  "kolor": "#2ecc71"
+},
+
+  {
+  "nazwa": "Fenobarbital",
+  "kategoria": "Antydrgawkowy",
+  "opis": "Barbituran o działaniu przeciwdrgawkowym i nasennym. Lek pierwszego lub drugiego rzutu w padaczce, status epilepticus i drgawkach noworodkowych.",
+  "dawkowanie": [
+    {"droga":"IV (status epilepticus)","dawka":"15-20 mg/kg","czestotliwosc":"Jednorazowo (dawka ładująca)","uwagi":"Podawać ≤50-100 mg/min; monitorować oddech i RR"},
+    {"droga":"IV (drgawki noworodkowe)","dawka":"20 mg/kg","czestotliwosc":"Jednorazowo","uwagi":"Można powtórzyć 5-10 mg/kg do maks. 40 mg/kg"},
+    {"droga":"PO (przewlekła terapia)","dawka":"1-3 mg/kg/dobę","czestotliwosc":"1-2x dziennie","uwagi":"Monitorować stężenie (10-40 mcg/ml)"}
+  ],
+  "interakcje": ["Benzodiazepiny (nasilenie depresji OUN)","Fenytoina (zmienna interakcja)","Warfaryna (indukcja CYP - zmniejszenie efektu)","Kwas walproinowy (wzrost stężenia fenobarbitalu)"],
+  "przeciwwskazania": ["Porfiria","Ciężka niewydolność oddechowa bez zabezpieczenia dróg","Ciężka niewydolność wątroby"],
+  "antidotum": "Brak specyficznego antidotum; leczenie objawowe",
+  "kolor": "#6c5ce7"
+},
+
+{
+  "nazwa": "Sotalol",
+  "kategoria": "Antyarytmik",
+  "opis": "Beta-bloker nieselektywny z właściwościami klasy III (blokada kanałów potasowych). Stosowany w utrwalonym AF, VT i profilaktyce nawrotów arytmii komorowych.",
+  "dawkowanie": [
+    {"droga":"IV","dawka":"0.5-1.5 mg/kg","czestotliwosc":"Przez 5 min","uwagi":"Monitorować QT i HR; maks. 1.5 mg/kg"},
+    {"droga":"PO","dawka":"80-160 mg","czestotliwosc":"2x dziennie","uwagi":"Rozpoczynać od 80 mg; dostosować do QTc i funkcji nerek"},
+    {"droga":"PO (profilaktyka VT/VF)","dawka":"160-320 mg","czestotliwosc":"2x dziennie","uwagi":"Wyłącznie pod kontrolą szpitalną przy inicjacji"}
+  ],
+  "interakcje": ["Leki wydłużające QT (ryzyko TdP - unikać)","Digoksyna","Werapamil/Diltiazem (bradykardia, blok AV)","Diuretyki (hipokaliemia nasila arytmię)"],
+  "przeciwwskazania": ["Wydłużony QT (QTc >450 ms)","Bradykardia <50/min","Blok AV II/III","Ciężka niewydolność nerek (eGFR <30)","Astma oskrzelowa"],
+  "antidotum": "Glukagon IV; stymulacja serca przy bradykardii",
+  "kolor": "#00b894"
+},
+
+{
+  "nazwa": "Podtlenek azotu (N₂O)",
+  "kategoria": "Anestetyk",
+  "opis": "Wziewny środek analgetyczny i sedacyjny. Stosowany w analgezji proceduralnej, stomatologii i porodach. Mieszanina 50% N₂O / 50% O₂ (Entonox) - podawana samodzielnie przez pacjenta.",
+  "dawkowanie": [
+    {"droga":"INH (Entonox 50/50)","dawka":"50% N₂O + 50% O₂","czestotliwosc":"Wdech na żądanie przez maskę lub ustnik","uwagi":"Efekt po 30-60 sek.; ustępuje w 2-5 min po odstawieniu"},
+    {"droga":"INH (znieczulenie ogólne)","dawka":"50-70% N₂O w mieszaninie z O₂","czestotliwosc":"Ciągła podaż","uwagi":"Zawsze z co najmniej 30% O₂; stosować z innymi anestetykami (MAC ~104%)"}
+  ],
+  "interakcje": ["Witamina B12 (nieodwracalna inaktywacja - przeciwwskazany przy niedoborze)","Metotreksat (nasilenie toksyczności hematologicznej)","Opioidy (nasilenie sedacji)"],
+  "przeciwwskazania": ["Niedobór witaminy B12 / homocystynuria","Zamknięte przestrzenie powietrzne (odma, niedrożność jelit, operacje ucha środkowego)","I trymestr ciąży","Podwyższone ICP"],
+  "antidotum": "Brak antidotum; odstawienie i podaż 100% O₂",
+  "kolor": "#74b9ff"
 }
 
 ]
