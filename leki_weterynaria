@@ -1,0 +1,798 @@
+[
+  {
+    "nazwa": "Dexmedetomidyna",
+    "kategoria": "Sedacja / agonista alfa-2",
+    "opis": "Lek uspokajający i przeciwbólowy stosowany u psów i kotów do sedacji, premedykacji i krótkich procedur.",
+    "dawkowanie": [
+      {
+        "droga": "IM",
+        "dawka": "1-5 mcg/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Tytuluj do efektu; obserwuj bradykardię i hipotensję"
+      },
+      {
+        "droga": "IV",
+        "dawka": "0.5-2 mcg/kg",
+        "czestotliwosc": "Powoli, do efektu",
+        "uwagi": "Zwykle w niższej dawce niż IM"
+      }
+    ],
+    "interakcje": [
+      "Inne leki sedacyjne",
+      "Opioidy",
+      "Leki obniżające tętno"
+    ],
+    "przeciwwskazania": [
+      "Ciężka choroba serca",
+      "Wstrząs",
+      "Niewydolność oddechowa"
+    ],
+    "antidotum": "Atipamezol",
+    "kolor": "#00d4ff",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Atipamezol",
+    "kategoria": "Odwracanie sedacji",
+    "opis": "Antagonista alfa-2 odwracający działanie dexmedetomidyny i medetomidyny u psów i kotów.",
+    "dawkowanie": [
+      {
+        "droga": "IM",
+        "dawka": "Dawka zależna od zastosowanego agonisty alfa-2",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Podawać po zakończeniu procedury; nie podawać za wcześnie po ketaminie"
+      },
+      {
+        "droga": "IM",
+        "dawka": "Zwykle 5x dawka dexmedetomidyny",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "W praktyce zależne od protokołu i gatunku"
+      }
+    ],
+    "interakcje": [
+      "Dexmedetomidyna",
+      "Medetomidyna",
+      "Inne alfa-2 agoniści"
+    ],
+    "przeciwwskazania": [
+      "Jednoczesne silne pobudzenie",
+      "Ciężka hipotensja",
+      "Współpodanie leków cholinolitycznych"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#00ff9d",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Ketamina",
+    "kategoria": "Anestetyk dysocjacyjny",
+    "opis": "Lek do indukcji i analgezji, często stosowany u kotów, psów i w procedurach krótkich.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "1-2 mg/kg",
+        "czestotliwosc": "Indukcja",
+        "uwagi": "Najczęściej w skojarzeniu z lekiem uspokajającym"
+      },
+      {
+        "droga": "IM",
+        "dawka": "5-10 mg/kg",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "U kotów często lepsza droga niż IV"
+      },
+      {
+        "droga": "CRI",
+        "dawka": "0.12-0.6 mg/kg/h",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Do analgezji wspomagającej"
+      }
+    ],
+    "interakcje": [
+      "Benzodiazepiny",
+      "Opioidy",
+      "Leki uspokajające"
+    ],
+    "przeciwwskazania": [
+      "Padaczka niekontrolowana",
+      "Ciężkie nadciśnienie",
+      "Ostre choroby serca"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#9b59b6",
+    "species": [
+      "pies",
+      "kot",
+      "krolik"
+    ]
+  },
+  {
+    "nazwa": "Fentanyl",
+    "kategoria": "Opioid / analgezja",
+    "opis": "Silny opioid używany w anestezji weterynaryjnej, analgezji i jako wlew ciągły u psów i kotów.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "2-5 mcg/kg",
+        "czestotliwosc": "Bolus, powoli",
+        "uwagi": "Monitoruj oddech i sedację"
+      },
+      {
+        "droga": "CRI",
+        "dawka": "2-10 mcg/kg/h",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Najczęściej w znieczuleniu zbalansowanym"
+      }
+    ],
+    "interakcje": [
+      "Inne opioidy",
+      "Benzodiazepiny",
+      "Środki anestetyczne"
+    ],
+    "przeciwwskazania": [
+      "Silna depresja oddechowa",
+      "Niewydolność oddechowa",
+      "Ostrożnie u pacjentów wstrząsowych"
+    ],
+    "antidotum": "Nalokson",
+    "kolor": "#e74c3c",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Buprenorfina",
+    "kategoria": "Opioid / przeciwbólowy",
+    "opis": "Opioid wykorzystywany w umiarkowanym bólu, zwłaszcza u kotów i małych zwierząt.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.01-0.02 mg/kg",
+        "czestotliwosc": "Co 6-12 h",
+        "uwagi": "Powoli podawać, obserwować sedację"
+      },
+      {
+        "droga": "IM / SC",
+        "dawka": "0.01-0.02 mg/kg",
+        "czestotliwosc": "Co 6-12 h",
+        "uwagi": "Często stosowana u kotów"
+      }
+    ],
+    "interakcje": [
+      "Inne opioidy",
+      "Sedatywy",
+      "Leki obniżające oddech"
+    ],
+    "przeciwwskazania": [
+      "Ciężka niewydolność oddechowa",
+      "Nadmierna sedacja",
+      "Ostrożnie u pacjentów z chorobami wątroby"
+    ],
+    "antidotum": "Nalokson",
+    "kolor": "#ff7675",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Butorfanol",
+    "kategoria": "Opioid / sedacja",
+    "opis": "Opioid o działaniu przeciwbólowym i uspokajającym, często używany u psów i kotów w krótkich procedurach.",
+    "dawkowanie": [
+      {
+        "droga": "IV / IM / SC",
+        "dawka": "0.2-0.4 mg/kg",
+        "czestotliwosc": "Co 4-6 h",
+        "uwagi": "Stosuj w zależności od procedury i gatunku"
+      },
+      {
+        "droga": "IN",
+        "dawka": "wg protokołu kliniki",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "W praktyce zależne od wskazania"
+      }
+    ],
+    "interakcje": [
+      "Inne opioidy",
+      "Sedatywy",
+      "Fenotiazyny"
+    ],
+    "przeciwwskazania": [
+      "Ciężka depresja oddechowa",
+      "Wstrząs",
+      "Silny ból przewlekły jako jedyny lek"
+    ],
+    "antidotum": "Nalokson",
+    "kolor": "#fdcb6e",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ]
+  },
+  {
+    "nazwa": "Atropina",
+    "kategoria": "Cholinolityk",
+    "opis": "Lek używany w bradykardii, przy nadmiernym wydzielaniu oraz jako wsparcie w anestezji weterynaryjnej.",
+    "dawkowanie": [
+      {
+        "droga": "IV / IM / SC",
+        "dawka": "0.02-0.04 mg/kg",
+        "czestotliwosc": "Jednorazowo lub wg odpowiedzi",
+        "uwagi": "Monitoruj tętno i rytm"
+      },
+      {
+        "droga": "IV",
+        "dawka": "Do efektu",
+        "czestotliwosc": "Powoli",
+        "uwagi": "Najczęściej przy objawowej bradykardii"
+      }
+    ],
+    "interakcje": [
+      "Inne leki cholinolityczne",
+      "Agoniści alfa-2",
+      "Niektóre anestetyki"
+    ],
+    "przeciwwskazania": [
+      "Tachyarytmie",
+      "Jaskra",
+      "Nadmierna tachykardia"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#00cec9",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ]
+  },
+  {
+    "nazwa": "Nalokson",
+    "kategoria": "Antidotum",
+    "opis": "Antagonista opioidów stosowany przy depresji oddechowej po opioidach u zwierząt.",
+    "dawkowanie": [
+      {
+        "droga": "IV / IM / SC",
+        "dawka": "0.01-0.04 mg/kg",
+        "czestotliwosc": "Co 2-3 min wg efektu",
+        "uwagi": "Titracja do poprawy oddechu"
+      },
+      {
+        "droga": "IN",
+        "dawka": "wg protokołu",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Przy braku dostępu dożylnego"
+      }
+    ],
+    "interakcje": [
+      "Opioidy"
+    ],
+    "przeciwwskazania": [
+      "Brak bezwzględnych; ostrożnie przy zależności od opioidów"
+    ],
+    "antidotum": "Sam jest antidotum",
+    "kolor": "#27ae60",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ]
+  },
+  {
+    "nazwa": "Maropitant",
+    "kategoria": "Przeciwwymiotny",
+    "opis": "Lek przeciwwymiotny i przeciwnudnościowy stosowany głównie u psów i kotów.",
+    "dawkowanie": [
+      {
+        "droga": "SC",
+        "dawka": "1 mg/kg",
+        "czestotliwosc": "Co 24 h",
+        "uwagi": "Najczęściej przy wymiotach i przed transportem"
+      },
+      {
+        "droga": "PO",
+        "dawka": "1 mg/kg",
+        "czestotliwosc": "Co 24 h",
+        "uwagi": "Używany także w terapii domowej"
+      }
+    ],
+    "interakcje": [
+      "Inne silnie wiążące się z białkami leki",
+      "Niektóre NLPZ"
+    ],
+    "przeciwwskazania": [
+      "Puppies <16 tygodni",
+      "Podejrzenie niedrożności",
+      "Ciężka choroba wątroby"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#f6b93b",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Meloksykam",
+    "kategoria": "NLPZ",
+    "opis": "Lek przeciwzapalny i przeciwbólowy używany w weterynarii głównie u psów, a w wybranych protokołach także u kotów.",
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "Pies: 0.1 mg/kg dzień 1, potem 0.05 mg/kg",
+        "czestotliwosc": "Co 24 h",
+        "uwagi": "Podawaj z jedzeniem; kontroluj nawodnienie"
+      },
+      {
+        "droga": "SC / inj.",
+        "dawka": "Kot: tylko jednorazowo wg lokalnego protokołu",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "W kotach powtarzanie dawki wymaga dużej ostrożności"
+      }
+    ],
+    "interakcje": [
+      "Inne NLPZ",
+      "Glikokortykosteroidy",
+      "Leki nefrotoksyczne"
+    ],
+    "przeciwwskazania": [
+      "Odwodnienie",
+      "Niewydolność nerek",
+      "Wrzody przewodu pokarmowego"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#55efc4",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ]
+  },
+  {
+    "nazwa": "Propofol",
+    "kategoria": "Anestetyk dożylny",
+    "opis": "Lek do indukcji znieczulenia u psów i kotów; działa szybko, ale wymaga monitorowania oddechu i ciśnienia.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "4-6 mg/kg",
+        "czestotliwosc": "Do efektu",
+        "uwagi": "Podawać powoli i titrować"
+      },
+      {
+        "droga": "CRI",
+        "dawka": "wg protokołu",
+        "czestotliwosc": "Ciągła",
+        "uwagi": "Do utrzymania znieczulenia krótkich zabiegów"
+      }
+    ],
+    "interakcje": [
+      "Opioidy",
+      "Benzodiazepiny",
+      "Inne anestetyki"
+    ],
+    "przeciwwskazania": [
+      "Hipotensja",
+      "Niewydolność oddechowa",
+      "Brak monitoringu"
+    ],
+    "antidotum": "Brak specyficznego antidotum",
+    "kolor": "#3498db",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Midazolam",
+    "kategoria": "Benzodiazepina",
+    "opis": "Lek przeciwdrgawkowy i uspokajający, przydatny u psów, kotów i pacjentów wymagających krótkiej sedacji.",
+    "dawkowanie": [
+      {
+        "droga": "IV / IM",
+        "dawka": "0.1-0.3 mg/kg",
+        "czestotliwosc": "Jednorazowo lub wg efektu",
+        "uwagi": "Często łączony z opioidami"
+      },
+      {
+        "droga": "IN",
+        "dawka": "wg protokołu",
+        "czestotliwosc": "Jednorazowo",
+        "uwagi": "Przy drgawkach lub szybkim uspokojeniu"
+      }
+    ],
+    "interakcje": [
+      "Opioidy",
+      "Propofol",
+      "Ketamina"
+    ],
+    "przeciwwskazania": [
+      "Silna niewydolność oddechowa",
+      "Nadmierna sedacja",
+      "Paradoxical excitation"
+    ],
+    "antidotum": "Flumazenil",
+    "kolor": "#8e44ad",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Flumazenil",
+    "kategoria": "Antidotum / benzodiazepiny",
+    "opis": "Odwraca działanie benzodiazepin u zwierząt, gdy potrzebne jest szybkie wybudzenie lub korekta sedacji.",
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "0.01-0.05 mg/kg",
+        "czestotliwosc": "Powoli",
+        "uwagi": "Może być potrzebne powtórzenie dawki"
+      },
+      {
+        "droga": "IV",
+        "dawka": "Do efektu",
+        "czestotliwosc": "Wg odpowiedzi",
+        "uwagi": "Nie odwraca opioidów"
+      }
+    ],
+    "interakcje": [
+      "Benzodiazepiny"
+    ],
+    "przeciwwskazania": [
+      "Padaczka wymagająca benzodiazepin jako leczenia",
+      "Wybudzenie po złożonej sedacji bez monitoringu"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#6c5ce7",
+    "species": [
+      "pies",
+      "kot"
+    ]
+  },
+  {
+    "nazwa": "Adrenalina (Epinefryna)",
+    "kategoria": "Katecholamina / anafilaksja",
+    "opis": "Lek pierwszego rzutu w nag?ych stanach alergicznych i resuscytacji weterynaryjnej u ps?w, kot?w i koni.",
+    "species": [
+      "pies",
+      "kot",
+      "kon",
+      "krolik"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "IV",
+        "dawka": "wg protoko?u resuscytacyjnego",
+        "czestotliwosc": "Jednorazowo / powtarzaj wg reakcji",
+        "uwagi": "Stosuj w ci??kiej anafilaksji i NZK"
+      },
+      {
+        "droga": "IM",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Powtarzaj wg stanu",
+        "uwagi": "Preferowane przy anafilaksji"
+      }
+    ],
+    "interakcje": [
+      "Beta-blokery",
+      "Inne sympatykomimetyki"
+    ],
+    "przeciwwskazania": [
+      "Ostro?nie w arytmiach",
+      "Ostro?nie w nadci?nieniu"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#e67e22"
+  },
+  {
+    "nazwa": "Hydrokortyzon",
+    "kategoria": "Glikokortykosteroid",
+    "opis": "Lek wspomagaj?cy w anafilaksji, wstrz?sie i ci??kich stanach zapalnych w weterynarii.",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "IV / IM",
+        "dawka": "wg protoko?u kliniki",
+        "czestotliwosc": "Jednorazowo lub wg potrzeby",
+        "uwagi": "Cz?sto jako wsparcie, nie jako jedyny lek"
+      },
+      {
+        "droga": "IV",
+        "dawka": "do efektu",
+        "czestotliwosc": "W sytuacji ostrej",
+        "uwagi": "Monitoruj parametry ?yciowe"
+      }
+    ],
+    "interakcje": [
+      "NLPZ",
+      "Leki nefrotoksyczne"
+    ],
+    "przeciwwskazania": [
+      "Czynna infekcja bez kontroli",
+      "Wrzody przewodu pokarmowego"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#f39c12"
+  },
+  {
+    "nazwa": "Salbutamol",
+    "kategoria": "Beta2-mimetyk / oskrzela",
+    "opis": "Lek rozszerzaj?cy oskrzela przy skurczu oskrzeli i duszno?ci u ps?w i kot?w.",
+    "species": [
+      "pies",
+      "kot"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "INHALACJA",
+        "dawka": "wg dost?pnego inhalatora/spacera",
+        "czestotliwosc": "W razie objaw?w",
+        "uwagi": "Przy bronkospazmie i obturacji"
+      },
+      {
+        "droga": "NEB",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "Powtarzaj wg oddechu",
+        "uwagi": "Wspomaga leczenie duszno?ci"
+      }
+    ],
+    "interakcje": [
+      "Inne sympatykomimetyki",
+      "Beta-blokery"
+    ],
+    "przeciwwskazania": [
+      "Ci??kie tachyarytmie",
+      "Nadmierna tachykardia"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#3498db"
+  },
+  {
+    "nazwa": "Deksametazon",
+    "kategoria": "Glikokortykosteroid",
+    "opis": "Steryyd przeciwzapalny i przeciwobrz?kowy u?ywany jako wsparcie w alergii, obrz?ku i chorobach zapalnych.",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "IV / IM",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Jednorazowo lub kr?tkie schematy",
+        "uwagi": "Dob?r zale?y od gatunku i wskazania"
+      },
+      {
+        "droga": "PO",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "Kr?tkoterminowo",
+        "uwagi": "Nie ??cz z NLPZ bez kontroli"
+      }
+    ],
+    "interakcje": [
+      "NLPZ",
+      "Inne steroidy"
+    ],
+    "przeciwwskazania": [
+      "Aktywna infekcja bez kontroli",
+      "Wrzody",
+      "Odwodnienie"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#d63031"
+  },
+  {
+    "nazwa": "Węgiel aktywowany",
+    "kategoria": "Dekontaminacja",
+    "opis": "?rodek pomocniczy w dekontaminacji po po?kni?ciu toksyn lub lek?w u zwierz?t.",
+    "species": [
+      "pies",
+      "kot",
+      "kon",
+      "krolik",
+      "male_ssaki"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "wg masy cia?a i rodzaju toksyny",
+        "czestotliwosc": "Jednorazowo lub powt?rnie",
+        "uwagi": "Nie w ka?dej ekspozycji; zale?y od czasu od zatrucia"
+      },
+      {
+        "droga": "PO / sond?",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "W zale?no?ci od przypadku",
+        "uwagi": "Przy zachowanej ochronie dr?g oddechowych"
+      }
+    ],
+    "interakcje": [
+      "Leki podawane doustnie"
+    ],
+    "przeciwwskazania": [
+      "Zaburzenia ?wiadomo?ci bez zabezpieczenia dr?g oddechowych",
+      "Ryzyko aspiracji"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#636e72"
+  },
+  {
+    "nazwa": "Omeprazol",
+    "kategoria": "IPP",
+    "opis": "Lek zmniejszaj?cy wydzielanie kwasu, u?ywany w chorobach przewodu pokarmowego u ps?w, kot?w i koni.",
+    "species": [
+      "pies",
+      "kot",
+      "kon"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Co 24 h",
+        "uwagi": "Najcz??ciej w terapii os?onowej"
+      },
+      {
+        "droga": "PO",
+        "dawka": "kr?tkie schematy",
+        "czestotliwosc": "Wg wskazania",
+        "uwagi": "Przy refluksie i wrzodach"
+      }
+    ],
+    "interakcje": [
+      "Niekt?re leki wymagaj?ce kwa?nego pH"
+    ],
+    "przeciwwskazania": [
+      "Nadwra?liwo??",
+      "Ostro?nie przy d?ugiej terapii bez kontroli"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#fdcb6e"
+  },
+  {
+    "nazwa": "Metoklopramid",
+    "kategoria": "Przeciwwymiotny / prokinetyk",
+    "opis": "Stosowany przy wymiotach i spowolnionej motoryce przewodu pokarmowego u ps?w i kot?w.",
+    "species": [
+      "pies",
+      "kot"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "IV / IM",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Co 8-12 h",
+        "uwagi": "Ostro?nie przy przeszkodzie mechanicznej"
+      },
+      {
+        "droga": "CRI",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "Ci?g?a",
+        "uwagi": "W ci??szych przypadkach"
+      }
+    ],
+    "interakcje": [
+      "Leki dopaminergiczne",
+      "Inne prokinetyki"
+    ],
+    "przeciwwskazania": [
+      "Niedro?no?? mechaniczna",
+      "Krwawienie z przewodu pokarmowego"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#74b9ff"
+  },
+  {
+    "nazwa": "Gabapentyna",
+    "kategoria": "Neuromodulacja / przeciwb?lowa",
+    "opis": "Lek przydatny u kot?w i ps?w w b?lu neuropatycznym, stresie i jako wsparcie przed wizyt?.",
+    "species": [
+      "pies",
+      "kot"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Co 8-12 h",
+        "uwagi": "Cz?sto podawana przed stresem lub procedur?"
+      },
+      {
+        "droga": "PO",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "Kr?tkie serie",
+        "uwagi": "Monitoruj sedacj?"
+      }
+    ],
+    "interakcje": [
+      "Inne leki uspokajaj?ce",
+      "Opioidy"
+    ],
+    "przeciwwskazania": [
+      "Nadmierna sedacja",
+      "Ostro?nie w chorobach nerek"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#a29bfe"
+  },
+  {
+    "nazwa": "Amoksycylina z kw. klawulanowym",
+    "kategoria": "Antybiotyk",
+    "opis": "Antybiotyk szerokospektralny u?ywany u ps?w i kot?w w infekcjach bakteryjnych.",
+    "species": [
+      "pies",
+      "kot"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "PO",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Co 12 h",
+        "uwagi": "Dob?r zale?y od infekcji i gatunku"
+      },
+      {
+        "droga": "IV / IM",
+        "dawka": "wg protoko?u",
+        "czestotliwosc": "W ostrych przypadkach",
+        "uwagi": "Wymaga kontroli klinicznej"
+      }
+    ],
+    "interakcje": [
+      "Inne antybiotyki",
+      "Probenecyd"
+    ],
+    "przeciwwskazania": [
+      "Nadwra?liwo?? na beta-laktamy"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#2ecc71"
+  },
+  {
+    "nazwa": "Enrofloksacyna",
+    "kategoria": "Antybiotyk fluorochinolonowy",
+    "opis": "Lek przeciwbakteryjny wykorzystywany w wybranych zaka?eniach u ps?w, kot?w i ma?ych ssak?w.",
+    "species": [
+      "pies",
+      "kot",
+      "krolik",
+      "male_ssaki"
+    ],
+    "dawkowanie": [
+      {
+        "droga": "PO / SC",
+        "dawka": "wg masy cia?a",
+        "czestotliwosc": "Co 24 h",
+        "uwagi": "Stosuj ostro?nie i zgodnie z gatunkiem"
+      },
+      {
+        "droga": "PO",
+        "dawka": "kr?tkie schematy",
+        "czestotliwosc": "Wg wskazania",
+        "uwagi": "W praktyce zale?ne od oporno?ci"
+      }
+    ],
+    "interakcje": [
+      "NLPZ",
+      "Antacida"
+    ],
+    "przeciwwskazania": [
+      "M?ode osobniki bez wskaza?",
+      "Nadwra?liwo?? na fluorochinolony"
+    ],
+    "antidotum": "Brak",
+    "kolor": "#16a085"
+  }
+]
