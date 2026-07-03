@@ -4,4 +4,4 @@ Baza leków, dawkowanie, interakcje, kalkulator dawek, akcje medyczne i sterowan
 
 Błędy, sugestie i opinie → zakładka **ℹ O aplikacji** wewnątrz MedOS lub kanał **#feedback**
 
-🔗 [discord.gg/hsn9ff3YSu](https://discord.gg/3XQT47tB5j)  ·  **v1.1.4**  ·  © 2026 skylight
+🔗 [discord.gg/hsn9ff3YSu](https://discord.gg/3XQT47tB5j)  ·  **v1.1.5**  ·  © 2026 skylight
