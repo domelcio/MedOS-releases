@@ -789,7 +789,7 @@
     {"droga": "PO (choroby wewnętrzne)","dawka": "500 mg","czestotliwosc": "2-3x dziennie","uwagi": "Łącznie zwykle 1000-1500 mg/dobę; przyjmować z jedzeniem"},
     {"droga": "PO (przed zabiegiem)","dawka": "500 mg","czestotliwosc": "Jednorazowo 1 godzinę przed zabiegiem","uwagi": "Przed zabiegiem preparat doustny podaje się na czczo"},
     {"droga": "PO (po zabiegu)","dawka": "500 mg","czestotliwosc": "Co 4-6 godzin","uwagi": "Stosować do czasu ustąpienia ryzyka krwawienia"},
-    {"droga": "PO (nadmierne krwawienia menstruacyjne)","dawka": "500 mg","czestotliwosc": "3x dziennie przez 10 dni","uwagi": "Leczenie rozpoczyna się 5 dni przed przewidywanym rozpoczęciem miesiączki"},
+    {"droga": "PO (nadmierne krwawienia menstruacyjne)","dawka": "500 mg","czestotliwosc": "3x dziennie przez 10 dni","uwagi": "Leczenie rozpoczyna się 5 dni przed przewidywanym rozpoczęciem miesiączki"}
   ],
   "interakcje": [
     "Dekstrany (jeżeli wymagany jest wlew dekstranu, etamsylat należy podać przed jego rozpoczęciem)",
