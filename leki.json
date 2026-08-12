@@ -712,12 +712,6 @@
   "antidotum": "Brak specyficznego antidotum",
   "kolor": "#4a4e69"
 },
-
-
-
-
-
-
 {
   "nazwa": "Protaminy siarczan",
   "kategoria": "Antidotum",
@@ -732,8 +726,7 @@
   "antidotum": "Nie dotyczy",
   "kolor": "#2ecc71"
 },
-
-  {
+{
   "nazwa": "Fenobarbital",
   "kategoria": "Antydrgawkowy",
   "opis": "Barbituran o działaniu przeciwdrgawkowym i nasennym. Lek pierwszego lub drugiego rzutu w padaczce, status epilepticus i drgawkach noworodkowych.",
@@ -747,7 +740,6 @@
   "antidotum": "Brak specyficznego antidotum; leczenie objawowe",
   "kolor": "#6c5ce7"
 },
-
 {
   "nazwa": "Sotalol",
   "kategoria": "Antyarytmik",
@@ -762,7 +754,6 @@
   "antidotum": "Glukagon IV; stymulacja serca przy bradykardii",
   "kolor": "#00b894"
 },
-
 {
   "nazwa": "Podtlenek azotu (N₂O)",
   "kategoria": "Anestetyk",
@@ -776,8 +767,6 @@
   "antidotum": "Brak antidotum; odstawienie i podaż 100% O₂",
   "kolor": "#74b9ff"
 },
-
-
 {
   "nazwa": "Etamsylat",
   "kategoria": "Hemostatyczny",
