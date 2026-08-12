@@ -770,7 +770,7 @@
 {
   "nazwa": "Etamsylat",
   "kategoria": "Hemostatyczny",
-  "opis": "Lek przeciwkrwotoczny działający głównie na hemostazę pierwotną. Zwiększa odporność ścian naczyń włosowatych i poprawia adhezję płytek krwi, skracając czas krwawienia bez istotnego wpływu na czas protrombinowy i fibrynolizę. Stosowany w zapobieganiu i leczeniu krwawień włośniczkowych, okołooperacyjnych oraz nadmiernych krwawień menstruacyjnych.",
+  "opis": "Lek przeciwkrwotoczny działający głównie na hemostazę pierwotną. Zwiększa odporność ścian naczyń włosowatych i poprawia adhezję płytek krwi, skracając czas krwawienia bez istotnego wpływu na czas protrombinowy i fibrynolizę.",
   "dawkowanie": [
     {"droga": "IV/IM (ostre krwawienie)","dawka": "250-500 mg","czestotliwosc": "Co 4-6 godzin","uwagi": "Dawkowanie zależy od nasilenia krwawienia; przy podaniu IV monitorować ciśnienie tętnicze ze względu na możliwość hipotensji"},
     {"droga": "IV/IM (przed zabiegiem)","dawka": "250-500 mg","czestotliwosc": "Jednorazowo około 1 godzinę przed zabiegiem","uwagi": "W trakcie zabiegu dawkę 250-500 mg IV można w razie potrzeby powtórzyć"},
