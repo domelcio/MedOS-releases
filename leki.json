@@ -766,33 +766,5 @@
   "przeciwwskazania": ["Niedobór witaminy B12 / homocystynuria","Zamknięte przestrzenie powietrzne (odma, niedrożność jelit, operacje ucha środkowego)","I trymestr ciąży","Podwyższone ICP"],
   "antidotum": "Brak antidotum; odstawienie i podaż 100% O₂",
   "kolor": "#74b9ff"
-},
-{
-  "nazwa": "Etamsylat",
-  "kategoria": "Hemostatyczny",
-  "opis": "Lek przeciwkrwotoczny działający głównie na hemostazę pierwotną. Zwiększa odporność ścian naczyń włosowatych i poprawia adhezję płytek krwi, skracając czas krwawienia bez istotnego wpływu na czas protrombinowy i fibrynolizę. Stosowany w zapobieganiu i leczeniu krwawień włośniczkowych, okołooperacyjnych oraz nadmiernych krwawień menstruacyjnych.",
-  "dawkowanie": [
-    {"droga": "IV/IM (ostre krwawienie)","dawka": "250-500 mg","czestotliwosc": "Co 4-6 godzin","uwagi": "Dawkowanie zależy od nasilenia krwawienia; przy podaniu IV monitorować ciśnienie tętnicze ze względu na możliwość hipotensji"},
-    {"droga": "IV/IM (przed zabiegiem)","dawka": "250-500 mg","czestotliwosc": "Jednorazowo około 1 godzinę przed zabiegiem","uwagi": "W trakcie zabiegu dawkę 250-500 mg IV można w razie potrzeby powtórzyć"},
-    {"droga": "IV/IM (po zabiegu)","dawka": "250-500 mg","czestotliwosc": "Co 4-6 godzin","uwagi": "Kontynuować tak długo, jak utrzymuje się istotne ryzyko krwawienia"},
-    {"droga": "PO (choroby wewnętrzne)","dawka": "500 mg","czestotliwosc": "2-3x dziennie","uwagi": "Łącznie zwykle 1000-1500 mg/dobę; przyjmować z jedzeniem"},
-    {"droga": "PO (przed zabiegiem)","dawka": "500 mg","czestotliwosc": "Jednorazowo 1 godzinę przed zabiegiem","uwagi": "Przed zabiegiem preparat doustny podaje się na czczo"},
-    {"droga": "PO (po zabiegu)","dawka": "500 mg","czestotliwosc": "Co 4-6 godzin","uwagi": "Stosować do czasu ustąpienia ryzyka krwawienia"},
-    {"droga": "PO (nadmierne krwawienia menstruacyjne)","dawka": "500 mg","czestotliwosc": "3x dziennie przez 10 dni","uwagi": "Leczenie rozpoczyna się 5 dni przed przewidywanym rozpoczęciem miesiączki"}
-  ],
-  "interakcje": [
-    "Dekstrany (jeżeli wymagany jest wlew dekstranu, etamsylat należy podać przed jego rozpoczęciem)",
-    "Tiamina / witamina B1 (może być inaktywowana przez siarczyny obecne w niektórych roztworach etamsylatu do wstrzykiwań)",
-    "Wodorowęglan sodu (niezgodność farmaceutyczna z roztworem etamsylatu do wstrzykiwań)",
-    "Roztwory zawierające mleczan sodu (niezgodność farmaceutyczna z niektórymi preparatami iniekcyjnymi)"
-  ],
-  "przeciwwskazania": [
-    "Ostra porfiria",
-    "Nadwrażliwość na etamsylat lub składniki preparatu",
-    "Astma oskrzelowa - w przypadku preparatów iniekcyjnych zawierających siarczyny",
-    "Nadwrażliwość na siarczyny - w przypadku preparatów iniekcyjnych zawierających siarczyny"
-  ],
-  "antidotum": "Brak swoistego antidotum; w przypadku przedawkowania stosować leczenie objawowe i podtrzymujące",
-  "kolor": "#e17055"
 }
 ]
