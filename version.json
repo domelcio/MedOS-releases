@@ -1,8 +1,8 @@
 {
-  "app_version": "1.1.5",
+  "app_version": "1.2.0",
   "leki_version": "1.0.9",
   "leki_weterynaria_version": "1.0.0",
-  "app_changelog": "...",
+  "app_changelog": "Dodano urządzenia audio i ulepszenia interfejsu, cały changelog na discord i github",
   "leki_changelog": "Dodano Etamsylat",
   "leki_weterynaria_changelog": "...",
   "download_url": "https://github.com/domelcio/MedOS-releases/releases/latest/download/MedOS.exe"
